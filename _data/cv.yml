@@ -11,24 +11,20 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Usable Privacy and Security
       institution: Chalmers University of Techonology, Gothenburg, Sweden
       department: Department of Computer Science and Engineering
       year: 2027
-      description:
-        - Usable Privacy and Security
-    - title: MSc
+      
+    - title: MSc in Data Science
       institution: University of Padua, Padua, Italy
       department: Department of Mathematics
       year: 2021
-      description:
-        - Data Science
-    - title: BSc
+    
+    - title: BSc in Cognitive Psychology
       institution: University of Padua, Padua, Italy
       department: Department of General Psychology
       year: 2018
-      description:
-        - Cognitive Psychology
 
 - title: Experience
   type: time_table
@@ -36,14 +32,10 @@
     - title: Research Assistant
       institution: University of Helsinki
       year: 2022
-      description:
-        - Explainable Knowledge Graph
 
     - title: Data Scientist
       institution: Chisito spin-off University of Padua
       year: 2021
-      description:
-        - Business Intelligence
 
 - title: Activities
   type: time_table
@@ -68,4 +60,4 @@
     - title: <a href="https://sola.kau.se/swits/en/">SWITS</a>
       year: May 2023
       description: 
-        - Presentation - Contrasting Traditional IoT with User-Driven Privacy Factors in Trigger-Action Apps
+        - Segmenting Privacy Profiles in TAP Applets for Usable Permission Management
