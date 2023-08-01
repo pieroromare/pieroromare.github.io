@@ -61,8 +61,8 @@
           - title: <a href="https://www.kau.se">Karlstad University</a>
             year: Nov 2022
             description: Speaker - Contrasting Traditional IoT with User-Driven Privacy Factors in Trigger-Action Apps
-    - title: Poster, Talk, Presentation
-      - contents:
-        - title: <a href="https://sola.kau.se/swits/en/">SWITS</a>
-          year: May 2023
-          description: Presentation - Contrasting Traditional IoT with User-Driven Privacy Factors in Trigger-Action Apps
+- title: Poster, Talk, Presentation
+  - contents:
+    - title: <a href="https://sola.kau.se/swits/en/">SWITS</a>
+      year: May 2023
+      description: Presentation - Contrasting Traditional IoT with User-Driven Privacy Factors in Trigger-Action Apps
