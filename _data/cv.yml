@@ -54,7 +54,7 @@
       description: 
         - Contrasting Traditional IoT with User-Driven Privacy Factors in Trigger-Action Apps
     - title: Research Visitor
-      - contents: 
+      - description: 
           - title: <a href="https://www.unipd.it">University of Padua</a>
             year: Apr-May 2023
           - title: <a href="https://www.kau.se">Karlstad University</a>
@@ -62,7 +62,7 @@
 
 - title: Poster, Talk, Presentation
   type: time_table
-  - contents:
+  contents:
     - title: <a href="https://sola.kau.se/swits/en/">SWITS</a>
       year: May 2023
       description: 
