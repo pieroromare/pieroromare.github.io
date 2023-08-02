@@ -12,17 +12,17 @@
   type: time_table
   contents:
     - title: PhD in Usable Privacy and Security
-      institution: Chalmers University of Techonology, Gothenburg, Sweden
+      institution: Chalmers University of Technology, Sweden
       department: Department of Computer Science and Engineering
       year: 2027
       
     - title: MSc in Data Science
-      institution: University of Padua, Padua, Italy
+      institution: University of Padua, Italy
       department: Department of Mathematics
       year: 2021
     
     - title: BSc in Cognitive Psychology
-      institution: University of Padua, Padua, Italy
+      institution: University of Padua, Italy
       department: Department of General Psychology
       year: 2018
 
@@ -30,7 +30,7 @@
   type: time_table
   contents:
     - title: Research Assistant
-      institution: University of Helsinki
+      institution: University of Helsinki, Finland
       year: 2022
 
     - title: Data Scientist
