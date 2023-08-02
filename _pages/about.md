@@ -17,11 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Piero Romare, I'm a [WASP](https://www.youtube.com/watch?v=BZCqRmQUbIk) PhD Student in Usable Privacy and Security at [Chalmers University of Technology](https://www.chalmers.se), Gothenburg (Sweden), supervised by [prof. Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner) in the [WASP Graduate School](https://wasp-sweden.org). 
+I'm Piero Romare, a [WASP](https://www.youtube.com/watch?v=BZCqRmQUbIk) PhD Student in Usable Privacy and Security at [Chalmers University of Technology](https://www.chalmers.se), Gothenburg (Sweden), supervised by [prof. Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner) in the [WASP Graduate School](https://wasp-sweden.org). 
 
 ---
 
-BSc in Cognitive Psychoology, MSc in Data Science at [Univeristy of Padua](https://www.unipd.it). 
+BSc in Cognitive Psychology, MSc in Data Science at [Univeristy of Padua](https://www.unipd.it). 
 
 ---
 
@@ -29,7 +29,7 @@ I've collaborated with the [SPRITZ Security and Privacy Research Group](https://
 
 ---
 
-My work is mostly about the Season 6, Ep 1, Black Mirror [IMDB](https://www.imdb.com/title/tt20247352/)
+My work is mostly about Season 6, Ep 1, Black Mirror [IMDB](https://www.imdb.com/title/tt20247352/)
 - *Privacy* on IoT Trigger-Action Platform
 - *Human-Computer Interaction* and *Identity Management*
 
