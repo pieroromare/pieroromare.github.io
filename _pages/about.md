@@ -19,9 +19,6 @@ social: true  # includes social icons at the bottom of the page
 
 I'm Piero Romare, a [WASP](https://www.youtube.com/watch?v=BZCqRmQUbIk) PhD Student in Usable Privacy and Security at [Chalmers University of Technology](https://www.chalmers.se), Gothenburg (Sweden), supervised by [prof. Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner) in the [WASP Graduate School](https://wasp-sweden.org). 
 
----
-
-BSc in Cognitive Psychology, MSc in Data Science at [Univeristy of Padua](https://www.unipd.it). 
 
 ---
 
