@@ -27,6 +27,6 @@ I've collaborated with the [SPRITZ Security and Privacy Research Group](https://
 ---
 
 My work is mostly about Season 6, Ep 1, Black Mirror [IMDB](https://www.imdb.com/title/tt20247352/)
-- *Privacy* on IoT Trigger-Action Platform
-- *Human-Computer Interaction* and *Identity Management*
+- *Usable Privacy* on IoT Trigger-Action Platform
+- *Human-Computer Interaction and Psychological Biases on IoT devices* 
 
