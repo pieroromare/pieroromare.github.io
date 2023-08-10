@@ -47,7 +47,7 @@
     - title: <a href="https://spritz.math.unipd.it/events/2019/PIU2019/PagesOutput/MLS/index.html</a>
       year: Sept 2019
       description:
-        - Brain-Computer Interface and Security: do NOT open the Brain Black Box
+        - Brain-Computer Interface and Security - do NOT open the Brain Black Box
  
 - title: Research Visiting
   type: time_table
@@ -60,6 +60,10 @@
 - title: Poster, Talk, Presentation
   type: time_table
   contents:
+    - title: Massachusetts Institute of Technology
+      year: Sept 2023
+      description: 
+        - Privacy Profiles for Enhanced Permission Management in Trigger-Action apps
     - title: <a href="https://sola.kau.se/swits/en/">SWITS</a>
       year: May 2023
       description: 
