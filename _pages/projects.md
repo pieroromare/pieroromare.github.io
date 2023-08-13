@@ -5,7 +5,7 @@ title: projects
 description: 
 nav: true
 nav_order: 2
-cateogry: work
+cateogry: [work, fun]
 horizontal: false
 ---
 

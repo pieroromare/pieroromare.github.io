@@ -14,12 +14,6 @@ Make your photos 1/3, 2/3, or full width.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: Method of Authenticating a User Through Analysis of Changes in the External Ear Canal
-    description: Eathentication is a novel user-friendly authentication method based on an assessment of the ear channel movement during chewing. Eathentication exploits proximity led sensors mounted on earphones to measures the movement of ear channel. 
-    img: assets/img/EathModel.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
