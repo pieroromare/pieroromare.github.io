@@ -2,10 +2,11 @@
 layout: page
 title: Method of Authenticating a User Through Analysis of Changes in the External Ear Canal
 description: Eathentication is a novel user-friendly authentication method based on an assessment of the ear channel movement during chewing. Eathentication exploits proximity led sensors mounted on earphones to measures the movement of ear channel. 
-img: assets/img/EathModel.jpg
+img: assets/img/EarCanal.jpg
 importance: 1
 category: work
 related_publications: carlucci_eathentication_2020, patent_eathentication_2021
+redirect: https://pieroromare.github.io/projects/1_project
 ---
 
 Every project has a beautiful feature showcase page.

@@ -2,10 +2,10 @@
 layout: page
 title: Law and Order - a Search Engine for Italian Law
 description: Law and Order is a tool in which to retrieve jurisprudence cases. We implement the state-of-art of Natural Language Processing to the legal domain. We apply computational models to legal reasoning and behaviour, to extract legal knowledge, infer relationships, and encourage data-driven insights. We build a working prototype of a search engine for a web application.
-img: assets/img/EathModel.jpg
+img: assets/img/page.jpg
 importance: 1
 category: work
-related_publications:
+redirect: https://pieroromare.github.io/projects/2_project
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,13 +17,13 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/EathModel.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/page.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/EarCanal.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/model.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Chew.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/law.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
