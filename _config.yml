@@ -172,6 +172,7 @@ collections:
   projects:
     output: false
     permalink: /projects/:path/
+  
 
 #announcements:
 #  enabled: false
