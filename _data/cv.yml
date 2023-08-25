@@ -60,10 +60,14 @@
 - title: Poster, Talk, Presentation
   type: time_table
   contents:
-    - title: Massachusetts Institute of Technology
+    - title: <a href="https://www.mit.edu">Massachusetts Institute of Technology</a>
       year: Sept 2023
       description: 
         - Privacy Profiles for Enhanced Permission Management in Trigger-Action apps
+    - title: <a href="http://pstnet.ca/">Privacy, Security and Trust 2023</a>
+      year: Aug 2023
+      description:
+        - Tapping into Privacy - A Study of User Preferences and Concerns on Trigger-Action Platforms
     - title: <a href="https://sola.kau.se/swits/en/">SWITS</a>
       year: May 2023
       description: 

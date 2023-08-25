@@ -1,10 +1,11 @@
 ---
 layout: page
-permalink: /environment/
-title: environment
+title: My Research Office Environment
 description: These research tools encompass a wide range of functionalities, from task management to paper discovery and collaboration. Incorporate these tools into your workflow to enhance your research process and scholarly endeavors.
-nav: false
-nav_order: 6
+img: assets/img/environment.jpg
+importance: 1
+category: work
+redirect: https://pieroromare.github.io/projects/3_project
 ---
 
 <html>
