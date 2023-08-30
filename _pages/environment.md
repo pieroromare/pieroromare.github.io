@@ -3,7 +3,7 @@ layout: page
 permalink: /environment/
 title: environment
 description: These research tools encompass a wide range of functionalities, from task management to paper discovery and collaboration. Incorporate these tools into your workflow to enhance your research process and scholarly endeavors.
-nav: false
+nav: true
 nav_order: 6
 ---
 

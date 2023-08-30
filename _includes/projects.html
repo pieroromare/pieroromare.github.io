@@ -11,13 +11,15 @@
         {%- include figure.html
           path=project.img
           alt="project thumbnail" -%}
-        {%- endif %}
-        <div class="card-body">
-          <h2 class="card-title text">{{ project.title }}</h2>
-          <p class="card-text">{{ project.description }}</p>
-          <div class="row ml-1 mr-1 p-0">
-        </div>
+        {%- endif -%}
+        <div class="card">
+          <div class="card-body" style="display: flex; flex-direction: column;">            <div class="card-header" style="font-size: 32px;">{{ project.title }}</div>
+            <p class="card-text">{{ project.description }}</p>
+            {%- if project.content -%}
+              <p class="card-text">{{ project.content }}</p>
+            {%- endif -%}
+          </div>
         </div>
       </div>
     </a>
-</div>
+  </div>

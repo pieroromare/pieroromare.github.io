@@ -16,12 +16,12 @@
       department: Department of Computer Science and Engineering
       year: 2027
       
-    - title: MSc in Data Science
+    - title: <a href="https://en.didattica.unipd.it/off/2023/LM/SC/SC2738">MSc in Data Science</a>
       institution: University of Padua, Italy
       department: Department of Mathematics
       year: 2021
     
-    - title: BSc in Cognitive Psychology
+    - title: <a href="https://en.didattica.unipd.it/off/2023/LT/PS/PS1082">BSc in Cognitive Psychology</a>
       institution: University of Padua, Italy
       department: Department of General Psychology
       year: 2018
@@ -30,16 +30,20 @@
   type: time_table
   contents:
     - title: Research Assistant
-      institution: University of Helsinki, Finland
+      institution: <a href="https://www.helsinki.fi/en/researchgroups/ubiquitous-interaction">University of Helsinki, Finland</a>
       year: 2022
 
     - title: Data Scientist
-      institution: Chisito spin-off University of Padua
+      institution: <a href="https://www.chisito.com">Chisito</a>
       year: 2021
 
 - title: Summer School
   type: time_table
   contents:
+    - title: <a href="http://wasp-sweden.org/">WASP Community Building Summer School</a>
+      year: Aug 2023
+      description:
+        - AI, Autonomous System and Software Program
     - title: <a href="https://ifip-summerschool.github.io">IFIP Summer School</a>
       year: Aug 2023
       description: 

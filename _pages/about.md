@@ -30,3 +30,18 @@ My work is mostly about Season 6, Ep 1, Black Mirror [IMDB](https://www.imdb.com
 - *Usable Privacy on IoT Trigger-Action Platform*
 - *Human-Computer Interaction, Biases and Heuristics on IoT devices* 
 
+---
+<!---
+ <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <div class="img-fluid rounded z-depth-1">
+          <img src="assets/img/visited_countries.jpg">
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+      <div class="img-fluid rounded z-depth-1">
+          <img src="assets/img/visited_countries.jpg">
+      </div>
+    </div>
+</div>
+--->
