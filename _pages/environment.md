@@ -21,8 +21,11 @@ nav_order: 6
     <h3><a href="https://obsidian.md">Obsidian  </a><img src="https://pieroromare.github.io/assets/img/obsidian-icon.png" alt="Obsidian Icon" width="50"></h3>
     <p>Obsidian is a note-taking app that helps build interconnected knowledge bases.</p>
 <hr>
-    <h3><a href="https://slack.com">Slack   </a><img src="https://pieroromare.github.io/assets/img/slack-icon.png" alt="Slack Icon" width="50">    <a href="http://skype.com">Skype   </a><img src="https://pieroromare.github.io/assets/img/skype-icon.png" alt="Skype Icon" width="50"></h3>
-    <p>Slack and Skype are messaging platforms for efficient team communication and collaboration.</p>
+    <h3><a href="https://slack.com">Slack   </a><img src="https://pieroromare.github.io/assets/img/slack-icon.png" alt="Slack Icon" width="50"></h3>
+    <p>Slack is messaging platforms for efficient team communication and collaboration.</p>
+<hr>
+    <h3><a href="http://skype.com">Skype   </a><img src="https://pieroromare.github.io/assets/img/skype-icon.png" alt="Skype Icon" width="50"></h3>
+    <p>Skype is messaging platforms, see Slack.</p>
 <hr>
     <h3><a href="https://app.diagrams.net">Draw.io    </a><img src="https://pieroromare.github.io/assets/img/drawio-icon.png" alt="draw.io Icon" width="50"></h3>
     <p>draw.io is a diagramming tool for creating visual representations of data and concepts.</p>

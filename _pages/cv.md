@@ -25,9 +25,7 @@ cv_pdf: Curriculum_work.pdf
 
 ## Publications
 
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>{% bibliography -f {{ site.scholar.bibliography }} %}</ul>
   
 ## Activities
 
