@@ -46,16 +46,16 @@ nav_order: 6
 <body>
     <div class="navbar">
         <ul>
-            <li><a href="#research-tools">Research Tools</a></li>
-            <li><a href="#charity-foundation">MasieraDay</a></li>
-            <li><a href="#cognitive-bias">Cognitive Bias</a></li>
+            <li><a href="#research-tools">#3 Research Tools</a></li>
+            <li><a href="#charity-foundation">#2 MasieraDay</a></li>
+            <li><a href="#cognitive-bias">#1 Cognitive Bias</a></li>
         </ul>
     </div>
 
 <hr>
 
 <p id="research-tools"></p>
-<h4>Research Tools</h4>
+<h4>#3 Research Tools</h4>
 <h7>This is my collection of research tools for academic and scholarly pursuits. These tools enhance my productivity and help me stay organized throughout my journey of discovery.</h7><br><br>
         <h5><a href="https://notion.so">Notion</a><img src="https://pieroromare.github.io/assets/img/notion-icon.png" alt="Notion Icon" width="100"></h5>
         <p>Notion is a versatile tool for task management, project organization, and collaboration.</p>
@@ -88,9 +88,9 @@ nav_order: 6
 <hr class="section-divider">
 
 <p id="charity-foundation"></p>
-<h4>MasieraDay</h4>
+<h4>#2 MasieraDay</h4>
 <h7>Masieraday is an association established for charitable purposes in memory of Livio Romare, a Schio volleyball champion who always had a thought for the community and young people, leading him to work personally for the good of those less fortunate. Masieraday is under the patronage of the Italian Ministry of Education, University and Research.<br><br></h7>
-<h5><a href="https://www.masieraday.it/en/">MasieraDay (ENG)</a> - <a href="https://www.masieraday.it/">MasieraDay (IT)</a>   <img src="https://pieroromare.github.io/assets/img/masieraday.png" alt="MasieraDay Icon" width="50"></h5>
+<h5><a href="https://www.masieraday.it/en/">MasieraDay (ENG)</a> - <a href="https://www.masieraday.it/">MasieraDay (IT)</a>   <img src="https://pieroromare.github.io/assets/img/masieraday.png" alt="MasieraDay Icon" width="200"></h5>
 <p>Since 2015, organization of volleyball matches with MasieraDay.</p>
 <p>Since 2017, organization of volleyball tournaments with MasieraCup.</p> 
 <p>Since 2018, donation of 5 scholarships each year with MasieraAcademy.</p>
@@ -103,10 +103,10 @@ Testimonials: <em>Andrea Lucchetta, Maurizia Cacciatori, Marco Berry, Robert Gra
 <hr class="section-divider">
 
 <p id="cognitive-bias"></p>
-<h4>Cognitive Bias</h4>
+<h4>#1 Cognitive Bias</h4>
 <h7>Cognitive biases and heuristics serve as mental shortcuts that enable individuals to simplify the complexity of tasks when making judgments and choices. Biases, in turn, arise as the disparities between expected or ideal behavior.</h7>
 <p> I like this representation arranged and designed by John Manoogian III (jm3). Categories and descriptions originally by Buster Benson.</p>
-<img src="https://pieroromare.github.io/assets/img/cognitive_bias_codex.svg" alt="Cognitive Bias Codex">
+<img src="https://pieroromare.github.io/assets/img/cognitive_bias_codex.svg" alt="Cognitive Bias Codex" width="770">
 
 <hr class="section-divider">
 
