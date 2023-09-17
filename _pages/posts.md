@@ -46,13 +46,56 @@ nav_order: 6
 <body>
     <div class="navbar">
         <ul>
-            <li><a href="#research-tools">#3 Research Tools</a></li>
-            <li><a href="#charity-foundation">#2 MasieraDay</a></li>
             <li><a href="#cognitive-bias">#1 Cognitive Bias</a></li>
+            <li><a href="#charity-foundation">#2 MasieraDay</a></li>
+            <li><a href="#research-tools">#3 Research Tools</a></li>
+            <li><a href="#working-hours">#4 Working Hours Tracker</a></li>            
         </ul>
     </div>
 
 <hr>
+
+<hr class="section-divider">
+
+<p id="working hours"></p>
+<h4>#4 Working Hours Tracker</h4>
+<h7>This AppleScript is designed exclusively for MacBooks and is not compatible with iPhones. It leverages iOS Shortcuts to streamline time tracking effortlessly.</h7><br>
+<em>Start Time: Click the shortcut once, and it will automatically update your "Working Time" note with the current start time. This marks the beginning of your work session.<br>
+Finish Time: When your work session is complete, click the shortcut again. This action will generate the finish time, indicating the end of your work session.</em><br><br>
+<ol>
+<li>Open Note and create an empty note titled: Working time</li>
+<li>Open IOS shortcut and create a new shortcut</li>
+<li>On the right-bar search for the command: Execute with Apple Script</li>
+<li>Add the command to the shortcut and copy and paste the code below</li>
+<li>Simulate with the button play close on the right-bar on the top</li>
+<li>Close the shortcut and it will appear on the shortcut menu</li>
+<li>Right click on the shortcut and select Add to the Dock</li>
+</ol>
+
+<pre>
+on run {input, parameters}
+	tell application "Notes"
+		set currentDate to current date
+		set currentTime to time string of currentDate
+		set currentDateTime to date string of currentDate & " " & currentTime
+		
+		set workingTimeNote to note "Working time"
+		set noteContent to body of workingTimeNote
+		
+		if noteContent does not contain "start " & (date string of currentDate) then
+			set newContent to noteContent & return & "start " & currentDateTime
+		else
+			set newContent to noteContent & return & "finish " & currentDateTime
+		end if
+		
+		set body of workingTimeNote to newContent
+		quit
+	end tell
+</pre>
+
+
+
+<hr class="section-divider">
 
 <p id="research-tools"></p>
 <h4>#3 Research Tools</h4>
