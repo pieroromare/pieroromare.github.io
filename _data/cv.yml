@@ -27,11 +27,11 @@
   type: time_table
   contents:
     - title: Tapping into Privacy A Study of User Preferences and Concerns on Trigger-Action Platforms
-      institution: Piero Romare, Victor Morel, Farzaneh Karegar, and Simone Fischer-Hübner <br> In 20th Annual International Conference on Privacy, Security & Trust (PST2023), <a href="https://arxiv.org/pdf/2308.06148">[link]</a>
+      institution: Piero Romare, Victor Morel, Farzaneh Karegar, and Simone Fischer-Hübner <br> In 20th Annual International Conference on Privacy, Security & Trust (PST2023) <a href="https://arxiv.org/pdf/2308.06148">[paper]</a>
       year: 2023
 
     - title: Eathentication A Chewing based Authentication Method
-      institution: Mattia Carlucci, Stefano Cecconello, Mauro Conti, Piero Romare <br> 2020 IEEE Conference on Communications and Network Security (CNS), <a href="https://ieeexplore.ieee.org/iel7/9153729/9162157/09162343.pdf">[link]</a>
+      institution: Mattia Carlucci, Stefano Cecconello, Mauro Conti, Piero Romare <br> 2020 IEEE Conference on Communications and Network Security (CNS) <a href="https://ieeexplore.ieee.org/iel7/9153729/9162157/09162343.pdf">[paper]</a> <a href="https://www.lens.org/images/patent/WO/2021148932/A1/WO_2021_148932_A1.pdf">[patent]</a>
       year: 2020
 
 - title: Experience
@@ -48,9 +48,9 @@
 - title: Research Visiting
   type: time_table
   contents: 
-    - title: <a href="https://www.mit.edu">MIT</a>
+    - title: <a href="https://www.mit.edu">Massachusetts Institute of Technology</a>
       year: Sept 2023
-    - title: <a href="https://www.cmu.edu">Carneige Mellow University</a>
+    - title: <a href="https://www.cmu.edu">Carnegie Mellon University</a>
       year: Sept 2023
     - title: <a href="https://www.unipd.it">University of Padua</a>
       year: Apr-May 2023
@@ -60,6 +60,10 @@
 - title: Summer School
   type: time_table
   contents:
+    - title: <a href="https://www.arcadian-iot.eu/summerschool/">Arcadian-IoT Summer School</a>
+      year: Sept 2023
+      description:
+        - IoT Cybersecurity - Tackling Challenges and Opportunities
     - title: <a href="http://wasp-sweden.org/">WASP Community Building Summer School</a>
       year: Aug 2023
       description:
@@ -92,17 +96,13 @@
       institution: University of Padua <br> Department of Mathematics
       year: 2021/2022
 
-- title: Poster, Talk, Presentation
+- title: Poster and Presentation
   type: time_table
   contents:
     - title: <a href="https://www.mit.edu">Massachusetts Institute of Technology</a>
       year: Sept 2023
       description: 
         - Privacy Profiles for Enhanced Privacy Permission Management in Trigger-Action Platforms
-    - title: <a href="http://pstnet.ca/">Privacy, Security and Trust 2023</a>
-      year: Aug 2023
-      description:
-        - Tapping into Privacy - A Study of User Preferences and Concerns on Trigger-Action Platforms
     - title: <a href="https://sola.kau.se/swits/en/">SWITS</a>
       year: May 2023
       description: 
