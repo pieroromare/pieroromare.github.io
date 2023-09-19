@@ -59,18 +59,18 @@ horizontal: false
 <p id="what-is-a-phd"></p>
 <h4>#2 What is a PhD</h4>
 <h7>An illustrated guide by Matt Might <a href="http://matt.might.net/articles/phd-school-in-pictures/">source</a><br> 
-<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__1.pdf" alt="What_is_a_PhD__1" width="350">
-<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__2.pdf" alt="What_is_a_PhD__2" width="350"><br>
-<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__3.pdf" alt="What_is_a_PhD__3" width="350">
-<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__4.pdf" alt="What_is_a_PhD__4" width="350"><br>
-<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__5.pdf" alt="What_is_a_PhD__5" width="350">
-<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__6.pdf" alt="What_is_a_PhD__6" width="350"><br>
-<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__7.pdf" alt="What_is_a_PhD__7" width="350">
-<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__8.pdf" alt="What_is_a_PhD__8" width="350"><br>
-<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__9.pdf" alt="What_is_a_PhD__9" width="350">
-<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__10.pdf" alt="What_is_a_PhD__10" width="350"><br>
-<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__11.pdf" alt="What_is_a_PhD__11" width="350">
-<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__12.pdf" alt="What_is_a_PhD__11" width="350"><br>
+<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__1.pdf" alt="What_is_a_PhD__1" width="385">
+<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__2.pdf" alt="What_is_a_PhD__2" width="385"><br>
+<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__3.pdf" alt="What_is_a_PhD__3" width="385">
+<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__4.pdf" alt="What_is_a_PhD__4" width="385"><br>
+<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__5.pdf" alt="What_is_a_PhD__5" width="385">
+<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__6.pdf" alt="What_is_a_PhD__6" width="385"><br>
+<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__7.pdf" alt="What_is_a_PhD__7" width="385">
+<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__8.pdf" alt="What_is_a_PhD__8" width="385"><br>
+<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__9.pdf" alt="What_is_a_PhD__9" width="385">
+<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__10.pdf" alt="What_is_a_PhD__10" width="385"><br>
+<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__11.pdf" alt="What_is_a_PhD__11" width="385">
+<img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__12.pdf" alt="What_is_a_PhD__11" width="385"><br>
 
 <hr class="section-divider">
 
