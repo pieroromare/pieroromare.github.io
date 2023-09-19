@@ -2,9 +2,9 @@
 layout: page
 permalink: /posts/
 title: posts
-description: my thoughts and environment
+description: my academic environment
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 <html>
@@ -47,30 +47,34 @@ nav_order: 6
     <div class="navbar">
         <ul>
             <li><a href="#cognitive-bias">#1 Cognitive Bias</a></li>
-            <li><a href="#charity-foundation">#2 MasieraDay</a></li>
-            <li><a href="#research-tools">#3 Research Tools</a></li>
-            <li><a href="#working-hours">#4 Working Hours Tracker</a></li>            
+            <li><a href="#research-tools">#2 Research Tools</a></li>
+            <li><a href="#working-hours">#3 Working Hours Tracker</a></li>            
         </ul>
     </div>
 
 <hr>
 
-<hr class="section-divider">
-
 <p id="working hours"></p>
-<h4>#4 Working Hours Tracker</h4>
+<h4>#3 Working Hours Tracker</h4>
 <h7>This AppleScript is designed exclusively for MacBooks and is not compatible with iPhones. It leverages iOS Shortcuts to streamline time tracking effortlessly.</h7><br>
 <em>Start Time: Click the shortcut once, and it will automatically update your "Working Time" note with the current start time. This marks the beginning of your work session.<br>
 Finish Time: When your work session is complete, click the shortcut again. This action will generate the finish time, indicating the end of your work session.</em><br><br>
-<ol>
-<li>Open Note and create an empty note titled: Working time</li>
-<li>Open IOS shortcut and create a new shortcut</li>
-<li>On the right-bar search for the command: Execute with Apple Script</li>
-<li>Add the command to the shortcut and copy and paste the code below</li>
-<li>Simulate with the button play close on the right-bar on the top</li>
-<li>Close the shortcut and it will appear on the shortcut menu</li>
-<li>Right click on the shortcut and select Add to the Dock</li>
-</ol>
+    <ol>
+        <li>Open the Notes app on your iOS device.</li>
+        <li>Create a new note and give it the title "Working time." You can do this by tapping the "+" button to create a new note and then giving it a title.</li>
+        <li>Open the Shortcuts app on your iOS device.</li>
+        <li>Tap the "+" button to create a new shortcut.</li>
+        <li>In the Shortcuts app, on the right-hand side, you'll see a search bar.</li>
+        <li>Type "Execute with AppleScript" in the search bar to find the corresponding action.</li>
+        <li>Once you find the "Execute with AppleScript" action, tap on it to add it to your shortcut.</li>
+        <li>After adding the action, you can tap on it to configure it.</li>
+        <li>Copy and paste the AppleScript code that you want to execute into the action. This code should perform the specific task you want to automate.</li>
+        <li>After adding the AppleScript code, you can tap the play button (usually a triangle or "Run" button) at the top right of the Shortcuts app to simulate or test your shortcut.</li>
+        <li>Once you've tested your shortcut and it works as expected, you can close it by tapping the "Done" button in the top right corner.</li>
+        <li>Your shortcut should now appear in the list of available shortcuts in the Shortcuts app.</li>
+        <li>To add the shortcut to your Dock for easy access, you can long-press (or right-click, depending on your device) on the shortcut's icon in the Shortcuts app.</li>
+        <li>From the context menu that appears, select the option to "Add to the Dock." This will place the shortcut on your device's Dock for quick access.</li>
+    </ol>
 
 <pre>
 on run {input, parameters}
@@ -98,7 +102,7 @@ on run {input, parameters}
 <hr class="section-divider">
 
 <p id="research-tools"></p>
-<h4>#3 Research Tools</h4>
+<h4>#2 Research Tools</h4>
 <h7>This is my collection of research tools for academic and scholarly pursuits. These tools enhance my productivity and help me stay organized throughout my journey of discovery.</h7><br><br>
         <h5><a href="https://notion.so">Notion</a><img src="https://pieroromare.github.io/assets/img/notion-icon.png" alt="Notion Icon" width="100"></h5>
         <p>Notion is a versatile tool for task management, project organization, and collaboration.</p>
@@ -130,28 +134,12 @@ on run {input, parameters}
 
 <hr class="section-divider">
 
-<p id="charity-foundation"></p>
-<h4>#2 MasieraDay</h4>
-<h7>Masieraday is an association established for charitable purposes in memory of Livio Romare, a Schio volleyball champion who always had a thought for the community and young people, leading him to work personally for the good of those less fortunate. Masieraday is under the patronage of the Italian Ministry of Education, University and Research.<br><br></h7>
-<h5><a href="https://www.masieraday.it/en/">MasieraDay (ENG)</a> - <a href="https://www.masieraday.it/">MasieraDay (IT)</a>   <img src="https://pieroromare.github.io/assets/img/masieraday.png" alt="MasieraDay Icon" width="200"></h5>
-<p>Since 2015, organization of volleyball matches with MasieraDay.</p>
-<p>Since 2017, organization of volleyball tournaments with MasieraCup.</p> 
-<p>Since 2018, donation of 5 scholarships each year with MasieraAcademy.</p>
-Thanks to your <a href="https://www.masieraday.it/dona/">donations</a>, aid has been devolved to Adwa Ethiopia, Vita Onlus project, AViLL (association against leukemia and lymphomas), Burundi Chiama (long distance adoptions). <br>
-On 5th December 2015 the Schio sports hall was named <a href="https://it.wikipedia.org/wiki/Palasport_Livio_Romare">Palasport Livio Romare</a>. You can relive the events organised via the <a href="https://www.youtube.com/@masieradaylivioromare7060">YouTube channel</a>.<br>
-Testimonials: <em>Andrea Lucchetta, Maurizia Cacciatori, Marco Berry, Robert Grabert, Eugenio Finardi, Giancarlo Caselli, Tina Montinaro, Roberto Baggio, Jury Chechi, Paolo Simoncelli, Simona Atzori, Maxime Mbandà, Javier Zanetti, Sammy Basso, Federica Pellegrini, Roberto Vecchioni, Sandrine Gruda, Laura Roveri, Carlo Nordio, Manuel Bortuzzo, Erika Stefani, Ferdinando De Giorgi, Daniele Cassioli, Roberto Mancini.</em><br>
-"I have always believed in team spirit, both in sport and in life. You young people are the future... be a team! And you will overcome all of life's obstacles" Livio (1963-2014).
-
-
-<hr class="section-divider">
 
 <p id="cognitive-bias"></p>
 <h4>#1 Cognitive Bias</h4>
 <h7>Cognitive biases and heuristics serve as mental shortcuts that enable individuals to simplify the complexity of tasks when making judgments and choices. Biases, in turn, arise as the disparities between expected or ideal behavior.</h7>
 <p> I like this representation arranged and designed by John Manoogian III (jm3). Categories and descriptions originally by Buster Benson.</p>
 <img src="https://pieroromare.github.io/assets/img/cognitive_bias_codex.svg" alt="Cognitive Bias Codex" width="770">
-
-<hr class="section-divider">
 
 
 </body>
