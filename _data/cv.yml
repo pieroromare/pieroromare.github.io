@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Usable Privacy and Security
+    - title: <a href="https://www.cse.chalmers.se/research/group/security/">PhD in Usable Privacy and Security</a>
       institution: Chalmers University of Technology <br> Department of Computer Science and Engineering <br> Gothenburg, Sweden
       year: 2027
       
@@ -99,11 +99,19 @@
 - title: Poster and Presentation
   type: time_table
   contents:
+    - title: <a href="https://www.chalmers.se/en/current/calendar/ict-navigate-in-the-cybersecurity/">Navigating the Cybersecurity Landscape</a>
+      year: Oct 2023
+      description:
+        - Privacy Profiles for Enhanced Privacy Permission Management in Trigger-Action Platforms
     - title: <a href="https://www.mit.edu">Massachusetts Institute of Technology</a>
       year: Sept 2023
       description: 
         - Privacy Profiles for Enhanced Privacy Permission Management in Trigger-Action Platforms
+    - title: <a href="https://www.pitt.edu">University of Pittsburgh</a>
+      year: Sept 2023
+      description:
+        - Usalbe Privacy and Security on IoT Trigger-Action Platforms
     - title: <a href="https://sola.kau.se/swits/en/">SWITS</a>
       year: May 2023
       description: 
-        - Segmenting Privacy Profiles in TAP Applets for Usable Permission Management
+        - Segmenting Privacy Profiles in Trigger Action Platform Applets for Usable Permission Management

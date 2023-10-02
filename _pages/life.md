@@ -76,7 +76,7 @@ horizontal: false
 
 <p id="charity-foundation"></p>
 <h4>#1 MasieraDay</h4>
-<h7>Masieraday is an association established for charitable purposes in memory of Livio Romare, a Schio volleyball champion who always had a thought for the community and young people, leading him to work personally for the good of those less fortunate. <br>Masieraday is under the patronage of the Italian Ministry of Education, University and Research.<br><br></h7>
+<h7>Masieraday is an association established for charitable purposes in memory of Livio Romare, a <a href="https://en.wikipedia.org/wiki/Schio">Schio</a> volleyball champion who always had a thought for the community and young people, leading him to work personally for the good of those less fortunate. <br>Masieraday is under the patronage of the Italian Ministry of Education, University and Research.<br><br></h7>
 <h5><a href="https://www.masieraday.it/en/">MasieraDay (ENG)</a> - <a href="https://www.masieraday.it/">MasieraDay (IT)</a>   <img src="https://pieroromare.github.io/assets/img/masieraday.png" alt="MasieraDay Icon" width="200"></h5>
 <p>Since 2015, organization of volleyball matches with MasieraDay.</p>
 <p>Since 2017, organization of volleyball tournaments with MasieraCup.</p> 
