@@ -45,7 +45,7 @@
       institution: <a href="https://www.chisito.com">Chisito</a>
       year: 2021
  
-- title: Research Visiting
+- title: Research Visit
   type: time_table
   contents: 
     - title: <a href="https://www.mit.edu">Massachusetts Institute of Technology</a>
@@ -110,7 +110,7 @@
     - title: <a href="https://www.pitt.edu">University of Pittsburgh</a>
       year: Sept 2023
       description:
-        - Usalbe Privacy and Security on IoT Trigger-Action Platforms
+        - Usable Privacy and Security on IoT Trigger-Action Platforms
     - title: <a href="https://sola.kau.se/swits/en/">SWITS</a>
       year: May 2023
       description: 
