@@ -30,9 +30,3 @@ My work is mostly about Season 6, Ep 1, Black Mirror [IMDB](https://www.imdb.com
 - *Usable Privacy on IoT Trigger-Action Platform*
 - *User-friendly Authentication Methods*
 - *Human-centric cybersecurity on IoT Wearable*
-
----
-
-<h6>MasieraDay - <a href="https://www.masieraday.it/en/">ENG</a> / <a href="https://www.masieraday.it/">IT</a>   <img src="https://pieroromare.github.io/assets/img/masieraday.png" alt="MasieraDay Icon" width="200"></h6>
-<h7>"Masieraday is an association established for charitable purposes in memory of  <a href="https://it.wikipedia.org/wiki/Palasport_Livio_Romare">Livio Romare</a>, a Schio volleyball champion who always had a thought for the community and young people, leading him to work personally for the good of those less fortunate." <br>Masieraday is under the patronage of the Italian Ministry of Education, University and Research.<br>You can relive the association's events organised via the <a href="https://www.youtube.com/@masieradaylivioromare7060">YouTube channel</a>.<br><br></h7>
-"I have always believed in team spirit, both in sport and in life. You young people are the future... be a team! And you will overcome all of life's obstacles" Livio (1963-2014).

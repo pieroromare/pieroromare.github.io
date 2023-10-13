@@ -3,7 +3,7 @@ layout: page
 permalink: /posts/
 title: posts
 description: life and work environment
-nav: false
+nav: true
 cateogry: work
 nav_order: 3
 ---
