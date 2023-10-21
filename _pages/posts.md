@@ -56,21 +56,52 @@ nav_order: 3
 <body>
     <div class="navbar">
         <ul>
-            <li><a href="#charity-foundation">#1 MasieraDay</a></li>
-            <li><a href="#cognitive-bias">#2 Cognitive Bias</a></li>
-            <li><a href="#what-is-a-phd">#3 What is a PhD</a></li>
-            <li><a href="#research-tools">#4 Research Tools</a></li>
-            <li><a href="#working-hours">#5 Working Hours Tracker</a></li>            
+            <li><a href="#cognitive-bias">#1 Cognitive Bias</a></li>
+            <li><a href="#what-is-a-phd">#2 What is a PhD</a></li>
+            <li><a href="#research-tools">#3 Research Tools</a></li>
+            <li><a href="#working-hours">#4 Working Hours Tracker</a></li>
+            <li><a href="#charity-foundation">#5 MasieraDay</a></li>     
+            <li><a href="#fun-website">#6 "Fun" Websites</a></li>       
         </ul>
     </div>
     
 <hr>
 
+<p id="fun-website"></p>
+<h4>#6 "Fun" Websites</h4>
+<ul>
+    <li><a href="https://makemydrivefun.com">MakeMyDriveFun</a>: not so common stops for your next trip</li>
+    <li><a href="https://ideasai.com">Open AI Ideas</a>: Open AI generated ideas.</li>
+    <li><a href="https://deepai.org/characters">Chat with Historical Characters</a>: interact with historical figures through AI-powered chat.</li>
+    <li><a href="https://www.complexity-explorables.org">Complexity-Explorables</a>: explore complex systems and phenomena through interactive visualizations.</li>
+    <li><a href="https://lolmythesis.com">Lol my thesis</a>: a humorous website featuring comical summaries of academic theses.</li>
+</ul>
+
+<hr class="section-divider">
+
+<p id="charity-foundation"></p>
+<h4>#5 MasieraDay</h4>
+<h7>Masieraday is an association established for charitable purposes in memory of Livio Romare, a <a href="https://en.wikipedia.org/wiki/Schio">Schio</a> volleyball champion who always had a thought for the community and young people, leading him to work personally for the good of those less fortunate. <br>Masieraday is under the patronage of the Italian Ministry of Education, University and Research.<br><br></h7>
+<h5><a href="https://www.masieraday.it/en/">MasieraDay (ENG)</a> - <a href="https://www.masieraday.it/">MasieraDay (IT)</a>   <img src="https://pieroromare.github.io/assets/img/masieraday.png" alt="MasieraDay Icon" width="200"></h5>
+<ul>
+<li>Since 2015, organization of volleyball matches with MasieraDay.</li>
+<li>Since 2017, organization of volleyball tournaments with MasieraCup.</li> 
+<li>Since 2018, donation of 5 scholarships each year with MasieraAcademy.</li>
+</ul>
+Thanks to your <a href="https://www.masieraday.it/dona/">donations</a>, aid has been devolved to Adwa Ethiopia, Vita Onlus project, AViLL (association against leukemia and lymphomas), Burundi Chiama (long distance adoptions). <br>
+On 5th December 2015 the Schio sports hall was named <a href="https://it.wikipedia.org/wiki/Palasport_Livio_Romare">Palasport Livio Romare</a>. <br>
+You can relive the association's events organised via the <a href="https://www.youtube.com/@masieradaylivioromare7060">YouTube channel</a>.<br>
+Testimonials: <em>Andrea Lucchetta, Maurizia Cacciatori, Marco Berry, Robert Grabert, Eugenio Finardi, Giancarlo Caselli, Tina Montinaro, Roberto Baggio, Jury Chechi, Paolo Simoncelli, Simona Atzori, Maxime Mbandà, Javier Zanetti, Sammy Basso, Federica Pellegrini, Roberto Vecchioni, Sandrine Gruda, Laura Roveri, Carlo Nordio, Manuel Bortuzzo, Erika Stefani, Ferdinando De Giorgi, Daniele Cassioli, Roberto Mancini.</em><br><br>
+"I have always believed in team spirit, both in sport and in life. You young people are the future... be a team! And you will overcome all of life's obstacles" Livio (1963-2014).
+
+<hr class="section-divider">
+
 <p id="working hours"></p>
-<h4>#5 Working Hours Tracker</h4>
+<h4>#4 Working Hours Tracker</h4>
 <h7>This AppleScript is designed exclusively for MacBooks and is not compatible with iPhones. It leverages iOS Shortcuts to streamline time tracking effortlessly.</h7><br>
 <em>Start Time: Click the shortcut once, and it will automatically update your "Working Time" note with the current start time. This marks the beginning of your work session.<br>
 Finish Time: When your work session is complete, click the shortcut again. This action will generate the finish time, indicating the end of your work session.</em><br><br>
+<h5>Tracker with iOS Notes</h5>
     <ol>
         <li>Open the Notes app on your iOS device.</li>
         <li>Create a new note and give it the title "Working time." You can do this by tapping the "+" button to create a new note and then giving it a title.</li>
@@ -80,7 +111,7 @@ Finish Time: When your work session is complete, click the shortcut again. This 
         <li>Type "Execute with AppleScript" in the search bar to find the corresponding action.</li>
         <li>Once you find the "Execute with AppleScript" action, tap on it to add it to your shortcut.</li>
         <li>After adding the action, you can tap on it to configure it.</li>
-        <li>Copy and paste the AppleScript code that you want to execute into the action. This code should perform the specific task you want to automate.</li>
+        <li>Copy and paste the AppleScript code that follows. This code should perform the specific task you want to automate.</li>
         <li>After adding the AppleScript code, you can tap the play button (usually a triangle or "Run" button) at the top right of the Shortcuts app to simulate or test your shortcut.</li>
         <li>Once you've tested your shortcut and it works as expected, you can close it by tapping the "Done" button in the top right corner.</li>
         <li>Your shortcut should now appear in the list of available shortcuts in the Shortcuts app.</li>
@@ -108,17 +139,55 @@ on run {input, parameters}
         quit
     end tell
 </pre>
+<br><br>
+<h5>Tracker with a txt file</h5>
+<h7>Another version is using the AppleScript + a Python script.</h7>
+    <ol>
+        <li>Open the terminal and type the following command: **pip install datetime</li>
+        <li>Create in a folder (that we call yourpath) a Python script that we call (yourpythonscript.py) and copy and paste the following</li>
+<pre style="background-color: #f0f0f0;">
+import os
+import datetime
+
+current_date = datetime.datetime.now()
+current_date_string = current_date.strftime('%A, %d %B %Y %H:%M:%S')
+
+desktop_path = os.path.expanduser("yourpath")
+text_file_name = "working_hours.txt"
+file_path = os.path.join(desktop_path, text_file_name)
+if not os.path.isfile(file_path):
+    open(file_path, 'w').close()
+
+with open(file_path, 'r') as file:
+    file_content = file.read()
+
+if "start" not in file_content.split('\n')[-1]:
+    new_content = file_content + f"\nstart {current_date_string}"
+else:
+    new_content = file_content + f"\nfinish {current_date_string}"
+
+with open(file_path, 'w') as file:
+    file.write(new_content)
+</pre>
+        <li>Now start from the point 3 of the previous version Track with Notes</li>
+        <li>In this version, the only difference is that in the AppleScript code in your shortcut add just the following</li>
+<pre style="background-color: #f0f0f0;">
+do shell script "python3 yourpath/yourpythonscript.py"
+</pre>
 
 <hr class="section-divider">
 
 <p id="research-tools"></p>
-<h4>#4 Research Tools</h4>
+<h4>#3 Research Tools</h4>
 <h7>This is my collection of research tools for academic and scholarly pursuits. These tools enhance my productivity and help me stay organized throughout my journey of discovery.</h7><br><br>
         <h5><a href="https://notion.so">Notion</a><img src="https://pieroromare.github.io/assets/img/notion-icon.png" alt="Notion Icon" width="100"></h5>
         <p>Notion is a versatile tool for task management, project organization, and collaboration.</p>
     <br>
         <h5><a href="https://obsidian.md">Obsidian  </a><img src="https://pieroromare.github.io/assets/img/obsidian-icon.png" alt="Obsidian Icon" width="50"></h5>
         <p>Obsidian is a note-taking app that helps build interconnected knowledge bases.</p>
+    <br>
+        <h5><a href="https://www.zotero.org">Zotero    </a><img src="https://pieroromare.github.io/assets/img/zotero-icon.png" alt="Zotero Icon" width="50"></h5>
+        <p>Zotero is a free and open-source reference management software and research tool.</p>
     <br>
         <h5><a href="https://app.diagrams.net">Draw.io    </a><img src="https://pieroromare.github.io/assets/img/drawio-icon.png" alt="draw.io Icon" width="50"></h5>
         <p>draw.io is a diagramming tool for creating visual representations of data and concepts.</p>
@@ -135,9 +204,6 @@ on run {input, parameters}
         <h5><a href="http://consensus.app">Consensus   </a><img src="https://pieroromare.github.io/assets/img/consensus-icon.png" alt="Consensus Icon" width="100"></h5>
         <p>Consensus.app facilitates collaborative paper selection through group voting.</p>
     <br>
-        <h5><a href="http://inciteful.xyz">Inciteful   </a><img src="https://pieroromare.github.io/assets/img/inciteful-icon.png" alt="Inciteful Icon" width="50"></h5>
-        <p>Inciteful.xyz gamifies paper discovery by earning points for reading and reviewing papers.</p>
-    <br>
         <h5><a href="http://chatpdf.com">ChatPDF   </a><img src="https://pieroromare.github.io/assets/img/chatpdf-icon.png" alt="ChatPDF Icon" width="50"></h5>
         <p>ChatPDF.com transforms static PDFs into dynamic, collaborative spaces for annotation and discussion.</p>
 
@@ -145,7 +211,7 @@ on run {input, parameters}
 <hr class="section-divider">
 
 <p id="what-is-a-phd"></p>
-<h4>#3 What is a PhD</h4>
+<h4>#2 What is a PhD</h4>
 <h7>An illustrated guide by Matt Might <a href="http://matt.might.net/articles/phd-school-in-pictures/">source</a><br> 
 <div class="container">
     <div class="row">
@@ -172,23 +238,7 @@ on run {input, parameters}
 <hr class="section-divider">
 
 <p id="cognitive-bias"></p>
-<h4>#2 Cognitive Bias</h4>
+<h4>#1 Cognitive Bias</h4>
 <h7>Cognitive biases and heuristics serve as mental shortcuts that enable individuals to simplify the complexity of tasks when making judgments and choices. Biases, in turn, arise as the disparities between expected or ideal behavior.</h7>
 <p> I like this representation arranged and designed by John Manoogian III (jm3). Categories and descriptions originally by Buster Benson.</p>
 <img src="https://pieroromare.github.io/assets/img/cognitive_bias_codex.svg" alt="Cognitive Bias Codex" width="770">
-
-
-<hr class="section-divider">
-
-<p id="charity-foundation"></p>
-<h4>#1 MasieraDay</h4>
-<h7>Masieraday is an association established for charitable purposes in memory of Livio Romare, a <a href="https://en.wikipedia.org/wiki/Schio">Schio</a> volleyball champion who always had a thought for the community and young people, leading him to work personally for the good of those less fortunate. <br>Masieraday is under the patronage of the Italian Ministry of Education, University and Research.<br><br></h7>
-<h5><a href="https://www.masieraday.it/en/">MasieraDay (ENG)</a> - <a href="https://www.masieraday.it/">MasieraDay (IT)</a>   <img src="https://pieroromare.github.io/assets/img/masieraday.png" alt="MasieraDay Icon" width="200"></h5>
-<p>Since 2015, organization of volleyball matches with MasieraDay.</p>
-<p>Since 2017, organization of volleyball tournaments with MasieraCup.</p> 
-<p>Since 2018, donation of 5 scholarships each year with MasieraAcademy.</p>
-Thanks to your <a href="https://www.masieraday.it/dona/">donations</a>, aid has been devolved to Adwa Ethiopia, Vita Onlus project, AViLL (association against leukemia and lymphomas), Burundi Chiama (long distance adoptions). <br>
-On 5th December 2015 the Schio sports hall was named <a href="https://it.wikipedia.org/wiki/Palasport_Livio_Romare">Palasport Livio Romare</a>. <br>
-You can relive the association's events organised via the <a href="https://www.youtube.com/@masieradaylivioromare7060">YouTube channel</a>.<br>
-Testimonials: <em>Andrea Lucchetta, Maurizia Cacciatori, Marco Berry, Robert Grabert, Eugenio Finardi, Giancarlo Caselli, Tina Montinaro, Roberto Baggio, Jury Chechi, Paolo Simoncelli, Simona Atzori, Maxime Mbandà, Javier Zanetti, Sammy Basso, Federica Pellegrini, Roberto Vecchioni, Sandrine Gruda, Laura Roveri, Carlo Nordio, Manuel Bortuzzo, Erika Stefani, Ferdinando De Giorgi, Daniele Cassioli, Roberto Mancini.</em><br><br>
-"I have always believed in team spirit, both in sport and in life. You young people are the future... be a team! And you will overcome all of life's obstacles" Livio (1963-2014).
