@@ -60,24 +60,11 @@ nav_order: 3
             <li><a href="#what-is-a-phd">#2 What is a PhD</a></li>
             <li><a href="#research-tools">#3 Research Tools</a></li>
             <li><a href="#working-hours">#4 Working Hours Tracker</a></li>
-            <li><a href="#charity-foundation">#5 MasieraDay</a></li>     
-            <li><a href="#fun-website">#6 "Fun" Websites</a></li>       
+            <li><a href="#charity-foundation">#5 MasieraDay</a></li>          
         </ul>
     </div>
     
 <hr>
-
-<p id="fun-website"></p>
-<h4>#6 "Fun" Websites</h4>
-<ul>
-    <li><a href="https://makemydrivefun.com">MakeMyDriveFun</a>: not so common stops for your next trip</li>
-    <li><a href="https://ideasai.com">Open AI Ideas</a>: Open AI generated ideas.</li>
-    <li><a href="https://deepai.org/characters">Chat with Historical Characters</a>: interact with historical figures through AI-powered chat.</li>
-    <li><a href="https://www.complexity-explorables.org">Complexity-Explorables</a>: explore complex systems and phenomena through interactive visualizations.</li>
-    <li><a href="https://lolmythesis.com">Lol my thesis</a>: a humorous website featuring comical summaries of academic theses.</li>
-</ul>
-
-<hr class="section-divider">
 
 <p id="charity-foundation"></p>
 <h4>#5 MasieraDay</h4>
