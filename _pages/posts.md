@@ -130,7 +130,7 @@ on run {input, parameters}
 <h5>Tracker with a txt file</h5>
 <h7>Another version is using the AppleScript + a Python script.</h7>
     <ol>
-        <li>Open the terminal and type the following command: **pip install datetime</li>
+        <li>Open the terminal and type the following command: pip install datetime</li>
         <li>Create in a folder (that we call yourpath) a Python script that we call (yourpythonscript.py) and copy and paste the following</li>
 <pre style="background-color: #f0f0f0;">
 import os

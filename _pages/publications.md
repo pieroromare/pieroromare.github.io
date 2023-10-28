@@ -11,10 +11,11 @@ nav_order: 1
 <html>
 
 <head>
-    <!-- Include Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <title>Posts</title>
-        <style>
+    <!--    
+    Include Bootstrap CSS
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
         /* CSS for the navigation bar */
         .navbar {
             background-color: #333;
@@ -46,7 +47,7 @@ nav_order: 1
                 scroll-margin-top: 66px;
             }
         }
-    </style>
+    </style> -->
 
 
 </head>
