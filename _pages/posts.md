@@ -11,43 +11,26 @@ nav_order: 3
 <html>
 
 <head>
-    <!-- Include Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <!-- Include Bootstrap JS (optional) 
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>-->
     <title>Posts</title>
         <style>
-    /* CSS for the navigation bar */
-        .navbar {
-            background-color: #333;
-            overflow: hidden;
-        }
-        .navbar ul {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            text-align: center;
-        }
-        .navbar li {
-            display: inline;
-            margin: 10px;
-        }
-        .navbar a {
-            color: white;
-            text-decoration: none;
-        }
-        .section-divider {
-            border: 5px solid #FFF; /* Add a border */
-            margin: 40px 0; /* Adjust spacing as needed */
-        } 
-        body {
-            padding-bottom: 70px;
-            color: var(--global-text-color);
-            background-color: var(--global-bg-color);
-            h1, h2, h3, h4, h5, h6 {
-                scroll-margin-top: 66px;
-            }
-        }
+            .horizontal-nav {
+                display: inherit;
+                justify-content: space-between;
+                align-items: center;
+                list-style: flex;
+                padding: 0;
+                margin: 10;
+                }
+
+                .horizontal-nav li {
+                margin: 0 15px;
+                }
+
+                .horizontal-nav li a {
+                background-color: white;
+                text-decoration: none;
+                color: #333;
+                }
     </style>
 
 </head>
@@ -55,17 +38,15 @@ nav_order: 3
 
 <body>
     <div class="navbar">
-        <ul>
-            <li><a href="#cognitive-bias">#1 Cognitive Bias</a></li>
-            <li><a href="#what-is-a-phd">#2 What is a PhD</a></li>
-            <li><a href="#research-tools">#3 Research Tools</a></li>
-            <li><a href="#working-hours">#4 Working Hours Tracker</a></li>
-            <li><a href="#charity-foundation">#5 MasieraDay</a></li>          
+        <ul class="horizontal-nav">
+            <li><a href="#cognitive-bias">Cognitive Bias</a></li>
+            <li><a href="#what-is-a-phd">What is a PhD</a></li>
+            <li><a href="#research-tools">Research Tools</a></li>
+            <li><a href="#working-hours">Working Hours Tracker</a></li>
+            <li><a href="#charity-foundation">MasieraDay</a></li>    
         </ul>
     </div>
     
-<hr>
-
 <p id="charity-foundation"></p>
 <h4>#5 MasieraDay</h4>
 <h7>Masieraday is an association established for charitable purposes in memory of Livio Romare, a <a href="https://en.wikipedia.org/wiki/Schio">Schio</a> volleyball champion who always had a thought for the community and young people, leading him to work personally for the good of those less fortunate. <br>Masieraday is under the patronage of the Italian Ministry of Education, University and Research.<br><br></h7>
@@ -203,20 +184,18 @@ do shell script "python3 yourpath/yourpythonscript.py"
 <div class="container">
     <div class="row">
         <div class="col">
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__1.pdf" alt="What_is_a_PhD__1" width="500"><br>
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__3.pdf" alt="What_is_a_PhD__3" width="500"><br>
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__5.pdf" alt="What_is_a_PhD__5" width="500"><br>
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__7.pdf" alt="What_is_a_PhD__7" width="500"><br>
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__9.pdf" alt="What_is_a_PhD__9" width="500"><br>
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__11.pdf" alt="What_is_a_PhD__11" width="500">
-        </div>
-        <div class="col">
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__2.pdf" alt="What_is_a_PhD__2" width="500"><br>
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__4.pdf" alt="What_is_a_PhD__4" width="500"><br>
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__6.pdf" alt="What_is_a_PhD__6" width="500"><br>
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__8.pdf" alt="What_is_a_PhD__8" width="500"><br>
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__10.pdf" alt="What_is_a_PhD__10" width="500"><br>
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__12.pdf" alt="What_is_a_PhD__11" width="500"><br>
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__1.pdf" alt="What_is_a_PhD__1" width="345">
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__2.pdf" alt="What_is_a_PhD__2" width="345"><br>
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__3.pdf" alt="What_is_a_PhD__3" width="345">
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__4.pdf" alt="What_is_a_PhD__4" width="345"><br>
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__5.pdf" alt="What_is_a_PhD__5" width="345">
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__6.pdf" alt="What_is_a_PhD__6" width="345"><br>
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__7.pdf" alt="What_is_a_PhD__7" width="345">
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__8.pdf" alt="What_is_a_PhD__8" width="345"><br>
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__9.pdf" alt="What_is_a_PhD__9" width="345">
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__10.pdf" alt="What_is_a_PhD__10" width="345"><br>
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__11.pdf" alt="What_is_a_PhD__11" width="345">
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__12.pdf" alt="What_is_a_PhD__12" width="345"><br>
         </div>
     </div>
 </div>
