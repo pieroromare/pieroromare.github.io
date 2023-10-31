@@ -39,14 +39,80 @@ nav_order: 3
 <body>
     <div class="navbar">
         <ul class="horizontal-nav">
-            <li><a href="#cognitive-bias">Cognitive Bias</a></li>
             <li><a href="#what-is-a-phd">What is a PhD</a></li>
-            <li><a href="#research-tools">Research Tools</a></li>
             <li><a href="#working-hours">Working Hours Tracker</a></li>
-            <li><a href="#charity-foundation">MasieraDay</a></li>    
+            <li><a href="#charity-foundation">MasieraDay</a></li>   
+            <li><a href="#research-tools">Research Tools</a></li>
+            <li><a href="#cognitive-bias">Cognitive Bias</a></li>
         </ul>
     </div>
     
+
+<p id="cognitive-bias"></p>
+<h4>#1 Cognitive Bias</h4>
+<h7>Cognitive biases and heuristics serve as mental shortcuts that enable individuals to simplify the complexity of tasks when making judgments and choices. Biases, in turn, arise as the disparities between expected or ideal behavior.</h7>
+<p> I like this representation arranged and designed by John Manoogian III (jm3). Categories and descriptions originally by Buster Benson.</p>
+<img src="https://pieroromare.github.io/assets/img/cognitive_bias_codex.svg" alt="Cognitive Bias Codex" width="770">
+
+<hr class="section-divider">
+
+<p id="research-tools"></p>
+<h4>#3 Research Tools</h4>
+<h7>This is my collection of research tools for academic and scholarly pursuits. These tools enhance my productivity and help me stay organized throughout my journey of discovery.</h7><br><br>
+        <h5><a href="https://notion.so">Notion</a><img src="https://pieroromare.github.io/assets/img/notion-icon.png" alt="Notion Icon" width="100"></h5>
+        <p>Notion is a versatile tool for task management, project organization, and collaboration.</p>
+    <br>
+        <h5><a href="https://obsidian.md">Obsidian  </a><img src="https://pieroromare.github.io/assets/img/obsidian-icon.png" alt="Obsidian Icon" width="50"></h5>
+        <p>Obsidian is a note-taking app that helps build interconnected knowledge bases.</p>
+    <br>
+        <h5><a href="https://www.zotero.org">Zotero    </a><img src="https://pieroromare.github.io/assets/img/zotero-icon.png" alt="Zotero Icon" width="50"></h5>
+        <p>Zotero is a free and open-source reference management software and research tool.</p>
+    <br>
+        <h5><a href="https://app.diagrams.net">Draw.io    </a><img src="https://pieroromare.github.io/assets/img/drawio-icon.png" alt="draw.io Icon" width="50"></h5>
+        <p>draw.io is a diagramming tool for creating visual representations of data and concepts.</p>
+    <br>
+        <h5><a href="http://connectedpapers.com">ConnectedPapers    </a><img src="https://pieroromare.github.io/assets/img/connectedpapers-icon.png" alt="ConnectedPapers Icon" width="100"></h5>
+        <p>ConnectedPapers.com visualizes citation networks to help researchers explore related academic papers.</p>
+    <br>
+        <h5><a href="https://researchrabbitapp.com/">ResearchRabbit   </a><img src="https://pieroromare.github.io/assets/img/researchrabbit-icon.png" alt="ResearchRabbit Icon" width="100"></h5>
+        <p>ResearchRabbitApp.com provides personalized paper recommendations based on research interests.</p>
+    <br>
+        <h5><a href="http://elicit.org">Elicit      </a><img src="https://pieroromare.github.io/assets/img/elicit-icon.png" alt="Elicit Icon" width="50"></h5>
+        <p>Elicit.org recommends research papers through community-driven curation.</p>
+    <br>
+        <h5><a href="http://consensus.app">Consensus   </a><img src="https://pieroromare.github.io/assets/img/consensus-icon.png" alt="Consensus Icon" width="100"></h5>
+        <p>Consensus.app facilitates collaborative paper selection through group voting.</p>
+    <br>
+        <h5><a href="http://chatpdf.com">ChatPDF   </a><img src="https://pieroromare.github.io/assets/img/chatpdf-icon.png" alt="ChatPDF Icon" width="50"></h5>
+        <p>ChatPDF.com transforms static PDFs into dynamic, collaborative spaces for annotation and discussion.</p>
+
+
+<hr class="section-divider">
+
+<p id="what-is-a-phd"></p>
+<h4>#2 What is a PhD</h4>
+<h7>An illustrated guide by Matt Might <a href="http://matt.might.net/articles/phd-school-in-pictures/">source</a><br> 
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__1.pdf" alt="What_is_a_PhD__1" width="345">
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__2.pdf" alt="What_is_a_PhD__2" width="345"><br>
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__3.pdf" alt="What_is_a_PhD__3" width="345">
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__4.pdf" alt="What_is_a_PhD__4" width="345"><br>
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__5.pdf" alt="What_is_a_PhD__5" width="345">
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__6.pdf" alt="What_is_a_PhD__6" width="345"><br>
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__7.pdf" alt="What_is_a_PhD__7" width="345">
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__8.pdf" alt="What_is_a_PhD__8" width="345"><br>
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__9.pdf" alt="What_is_a_PhD__9" width="345">
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__10.pdf" alt="What_is_a_PhD__10" width="345"><br>
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__11.pdf" alt="What_is_a_PhD__11" width="345">
+            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__12.pdf" alt="What_is_a_PhD__12" width="345"><br>
+        </div>
+    </div>
+</div>
+
+<hr class="section-divider">
+
 <p id="charity-foundation"></p>
 <h4>#5 MasieraDay</h4>
 <h7>Masieraday is an association established for charitable purposes in memory of Livio Romare, a <a href="https://en.wikipedia.org/wiki/Schio">Schio</a> volleyball champion who always had a thought for the community and young people, leading him to work personally for the good of those less fortunate. <br>Masieraday is under the patronage of the Italian Ministry of Education, University and Research.<br><br></h7>
@@ -143,68 +209,3 @@ with open(file_path, 'w') as file:
 do shell script "python3 yourpath/yourpythonscript.py"
 </pre>
 
-<hr class="section-divider">
-
-<p id="research-tools"></p>
-<h4>#3 Research Tools</h4>
-<h7>This is my collection of research tools for academic and scholarly pursuits. These tools enhance my productivity and help me stay organized throughout my journey of discovery.</h7><br><br>
-        <h5><a href="https://notion.so">Notion</a><img src="https://pieroromare.github.io/assets/img/notion-icon.png" alt="Notion Icon" width="100"></h5>
-        <p>Notion is a versatile tool for task management, project organization, and collaboration.</p>
-    <br>
-        <h5><a href="https://obsidian.md">Obsidian  </a><img src="https://pieroromare.github.io/assets/img/obsidian-icon.png" alt="Obsidian Icon" width="50"></h5>
-        <p>Obsidian is a note-taking app that helps build interconnected knowledge bases.</p>
-    <br>
-        <h5><a href="https://www.zotero.org">Zotero    </a><img src="https://pieroromare.github.io/assets/img/zotero-icon.png" alt="Zotero Icon" width="50"></h5>
-        <p>Zotero is a free and open-source reference management software and research tool.</p>
-    <br>
-        <h5><a href="https://app.diagrams.net">Draw.io    </a><img src="https://pieroromare.github.io/assets/img/drawio-icon.png" alt="draw.io Icon" width="50"></h5>
-        <p>draw.io is a diagramming tool for creating visual representations of data and concepts.</p>
-    <br>
-        <h5><a href="http://connectedpapers.com">ConnectedPapers    </a><img src="https://pieroromare.github.io/assets/img/connectedpapers-icon.png" alt="ConnectedPapers Icon" width="100"></h5>
-        <p>ConnectedPapers.com visualizes citation networks to help researchers explore related academic papers.</p>
-    <br>
-        <h5><a href="https://researchrabbitapp.com/">ResearchRabbit   </a><img src="https://pieroromare.github.io/assets/img/researchrabbit-icon.png" alt="ResearchRabbit Icon" width="100"></h5>
-        <p>ResearchRabbitApp.com provides personalized paper recommendations based on research interests.</p>
-    <br>
-        <h5><a href="http://elicit.org">Elicit      </a><img src="https://pieroromare.github.io/assets/img/elicit-icon.png" alt="Elicit Icon" width="50"></h5>
-        <p>Elicit.org recommends research papers through community-driven curation.</p>
-    <br>
-        <h5><a href="http://consensus.app">Consensus   </a><img src="https://pieroromare.github.io/assets/img/consensus-icon.png" alt="Consensus Icon" width="100"></h5>
-        <p>Consensus.app facilitates collaborative paper selection through group voting.</p>
-    <br>
-        <h5><a href="http://chatpdf.com">ChatPDF   </a><img src="https://pieroromare.github.io/assets/img/chatpdf-icon.png" alt="ChatPDF Icon" width="50"></h5>
-        <p>ChatPDF.com transforms static PDFs into dynamic, collaborative spaces for annotation and discussion.</p>
-
-
-<hr class="section-divider">
-
-<p id="what-is-a-phd"></p>
-<h4>#2 What is a PhD</h4>
-<h7>An illustrated guide by Matt Might <a href="http://matt.might.net/articles/phd-school-in-pictures/">source</a><br> 
-<div class="container">
-    <div class="row">
-        <div class="col">
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__1.pdf" alt="What_is_a_PhD__1" width="345">
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__2.pdf" alt="What_is_a_PhD__2" width="345"><br>
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__3.pdf" alt="What_is_a_PhD__3" width="345">
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__4.pdf" alt="What_is_a_PhD__4" width="345"><br>
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__5.pdf" alt="What_is_a_PhD__5" width="345">
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__6.pdf" alt="What_is_a_PhD__6" width="345"><br>
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__7.pdf" alt="What_is_a_PhD__7" width="345">
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__8.pdf" alt="What_is_a_PhD__8" width="345"><br>
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__9.pdf" alt="What_is_a_PhD__9" width="345">
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__10.pdf" alt="What_is_a_PhD__10" width="345"><br>
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__11.pdf" alt="What_is_a_PhD__11" width="345">
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__12.pdf" alt="What_is_a_PhD__12" width="345"><br>
-        </div>
-    </div>
-</div>
-
-
-<hr class="section-divider">
-
-<p id="cognitive-bias"></p>
-<h4>#1 Cognitive Bias</h4>
-<h7>Cognitive biases and heuristics serve as mental shortcuts that enable individuals to simplify the complexity of tasks when making judgments and choices. Biases, in turn, arise as the disparities between expected or ideal behavior.</h7>
-<p> I like this representation arranged and designed by John Manoogian III (jm3). Categories and descriptions originally by Buster Benson.</p>
-<img src="https://pieroromare.github.io/assets/img/cognitive_bias_codex.svg" alt="Cognitive Bias Codex" width="770">
