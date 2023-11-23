@@ -49,7 +49,7 @@ nav_order: 3
     
 
 <p id="cognitive-bias"></p>
-<h4>#1 Cognitive Bias</h4>
+<h4>Cognitive Bias</h4>
 <h7>Cognitive biases and heuristics serve as mental shortcuts that enable individuals to simplify the complexity of tasks when making judgments and choices. Biases, in turn, arise as the disparities between expected or ideal behavior.</h7>
 <p> I like this representation arranged and designed by John Manoogian III (jm3). Categories and descriptions originally by Buster Benson.</p>
 <img src="https://pieroromare.github.io/assets/img/cognitive_bias_codex.svg" alt="Cognitive Bias Codex" width="770">
@@ -57,7 +57,7 @@ nav_order: 3
 <hr class="section-divider">
 
 <p id="research-tools"></p>
-<h4>#3 Research Tools</h4>
+<h4>Research Tools</h4>
 <h7>This is my collection of research tools for academic and scholarly pursuits. These tools enhance my productivity and help me stay organized throughout my journey of discovery.</h7><br><br>
         <h5><a href="https://notion.so">Notion</a><img src="https://pieroromare.github.io/assets/img/notion-icon.png" alt="Notion Icon" width="100"></h5>
         <p>Notion is a versatile tool for task management, project organization, and collaboration.</p>
@@ -90,7 +90,7 @@ nav_order: 3
 <hr class="section-divider">
 
 <p id="what-is-a-phd"></p>
-<h4>#2 What is a PhD</h4>
+<h4>What is a PhD</h4>
 <h7>An illustrated guide by Matt Might <a href="http://matt.might.net/articles/phd-school-in-pictures/">source</a><br> 
 <div class="container">
     <div class="row">
@@ -114,7 +114,7 @@ nav_order: 3
 <hr class="section-divider">
 
 <p id="charity-foundation"></p>
-<h4>#5 MasieraDay</h4>
+<h4>MasieraDay</h4>
 <h7>Masieraday is an association established for charitable purposes in memory of Livio Romare, a <a href="https://en.wikipedia.org/wiki/Schio">Schio</a> volleyball champion who always had a thought for the community and young people, leading him to work personally for the good of those less fortunate. <br>Masieraday is under the patronage of the Italian Ministry of Education, University and Research.<br><br></h7>
 <h5><a href="https://www.masieraday.it/en/">MasieraDay (ENG)</a> - <a href="https://www.masieraday.it/">MasieraDay (IT)</a>   <img src="https://pieroromare.github.io/assets/img/masieraday.png" alt="MasieraDay Icon" width="200"></h5>
 <ul>
@@ -131,7 +131,7 @@ Testimonials: <em>Andrea Lucchetta, Maurizia Cacciatori, Marco Berry, Robert Gra
 <hr class="section-divider">
 
 <p id="working hours"></p>
-<h4>#4 Working Hours Tracker</h4>
+<h4>Working Hours Tracker</h4>
 <h7>This AppleScript is designed exclusively for MacBooks and is not compatible with iPhones. It leverages iOS Shortcuts to streamline time tracking effortlessly.</h7><br>
 <em>Start Time: Click the shortcut once, and it will automatically update your "Working Time" note with the current start time. This marks the beginning of your work session.<br>
 Finish Time: When your work session is complete, click the shortcut again. This action will generate the finish time, indicating the end of your work session.</em><br><br>
