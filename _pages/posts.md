@@ -77,7 +77,7 @@ nav_order: 3
         <h5><a href="https://researchrabbitapp.com/">ResearchRabbit   </a><img src="https://pieroromare.github.io/assets/img/researchrabbit-icon.png" alt="ResearchRabbit Icon" width="100"></h5>
         <p>ResearchRabbitApp.com provides personalized paper recommendations based on research interests.</p>
     <br>
-        <h5><a href="http://elicit.org">Elicit      </a><img src="https://pieroromare.github.io/assets/img/elicit-icon.png" alt="Elicit Icon" width="50"></h5>
+        <h5><a href="http://elicit.org">Elicit         </a><img src="https://pieroromare.github.io/assets/img/elicit-icon.png" alt="Elicit Icon" width="50"></h5>
         <p>Elicit.org recommends research papers through community-driven curation.</p>
     <br>
         <h5><a href="http://consensus.app">Consensus   </a><img src="https://pieroromare.github.io/assets/img/consensus-icon.png" alt="Consensus Icon" width="100"></h5>
@@ -85,6 +85,18 @@ nav_order: 3
     <br>
         <h5><a href="http://chatpdf.com">ChatPDF   </a><img src="https://pieroromare.github.io/assets/img/chatpdf-icon.png" alt="ChatPDF Icon" width="50"></h5>
         <p>ChatPDF.com transforms static PDFs into dynamic, collaborative spaces for annotation and discussion.</p>
+    <br>
+        <h5><a href="https://github.com/features/copilot/">Github Copilot   </a><img src="https://pieroromare.github.io/assets/img/copilot-icon.png" alt="Copilot Icon" width="50"></h5>
+        <p>GitHub Copilot is an AI-powered code completion tool that assists developers by generating suggestions and snippets based on natural language comments and existing code.</p>
+    <br>
+        <h5><a href="https://www.complexity-explorables.org">Complexity Explorables   </a><img src="https://pieroromare.github.io/assets/img/complex-icon.png" alt="Complex Icon" width="50"></h5>
+        <p>Complexity Explorables is a platform that provides interactive simulations and visualizations to help users understand complex concepts in science, mathematics, and other fields through hands-on exploration.</p>
+    <br>
+        <h5><a href="https://www.overleaf.com">Overleaf   </a><img src="https://pieroromare.github.io/assets/img/overleaf-icon.png" alt="Overleaf Icon" width="50"></h5>
+        <p>Overleaf is a collaborative LaTeX editor that allows users to create, edit, and share scientific documents online.</p>
+    <br>
+        <h5><a href="https://neo4j.com">Neo4j   </a><img src="https://pieroromare.github.io/assets/img/neo4j-icon.png" alt="Neo4j Icon" width="50"></h5>
+        <p>Neo4j is a graph database management system that is designed for efficiently storing, querying, and analyzing highly interconnected data using a flexible and intuitive graph model.</p>
 
 
 <hr class="section-divider">

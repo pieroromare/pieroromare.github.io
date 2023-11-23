@@ -27,11 +27,11 @@
   type: time_table
   contents:
     - title: User-Driven Privacy Factors in Trigger-Action Apps - A Comparative Analysis with General IoT
-      institution: Piero Romare <br> Privacy and Identity Management. Privacy and Identity 2022. IFIP Advances in Information and Communication Technology <a href="#">[paper]</a>
+      institution: Piero Romare <br> Privacy and Identity Management. Privacy and Identity 2023. IFIP Advances in Information and Communication Technology <a href="#">[paper]</a>
       year: 2023
       
     - title: Tapping into Privacy A Study of User Preferences and Concerns on Trigger-Action Platforms
-      institution: Piero Romare, Victor Morel, Farzaneh Karegar, and Simone Fischer-Hübner <br> In 20th Annual International Conference on Privacy, Security & Trust (PST2023) <a href="http://doi.org/10.1109/PST58708.2023.10320180">[paper]</a>
+      institution: Piero Romare, Victor Morel, Farzaneh Karegar, and Simone Fischer-Hübner <br> 2023 20th Annual International Conference on Privacy, Security and Trust (PST), <a href="http://doi.org/10.1109/PST58708.2023.10320180">[paper]</a>
       year: 2023
 
     - title: Eathentication A Chewing based Authentication Method
@@ -52,8 +52,6 @@
 - title: Research Visit
   type: time_table
   contents: 
-    - title: <a href="https://www.mit.edu">Massachusetts Institute of Technology</a>
-      year: Sept 2023
     - title: <a href="https://www.cmu.edu">Carnegie Mellon University</a>
       year: Sept 2023
     - title: <a href="https://www.unipd.it">University of Padua</a>
