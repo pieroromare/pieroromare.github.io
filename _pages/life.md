@@ -85,6 +85,7 @@ Together with my friend Andrea, we played a few times live using the name ThElem
 <img src="https://pieroromare.github.io/assets/img/thelementsoflive.png" alt="ThElements of Live" width="300">.
 <br>
 This was my home studio. My setup was with a Native Instruments Traktor S4, a Novation Launchpad and an Akai MPK25 I'm also a vinyl collector.
+<br>
 <img src="https://pieroromare.github.io/assets/img/batcaverna.png" alt="Batcaverna" width="300">.
 
 
