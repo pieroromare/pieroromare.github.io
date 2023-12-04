@@ -2,7 +2,7 @@
 layout: page
 permalink: /posts/
 title: posts
-description: life and work environment
+description: work environment
 nav: true
 cateogry: work
 nav_order: 3
@@ -39,9 +39,9 @@ nav_order: 3
 <body>
     <div class="navbar">
         <ul class="horizontal-nav">
-            <li><a href="#what-is-a-phd">What is a PhD</a></li>
             <li><a href="#working-hours">Working Hours Tracker</a></li>
-            <li><a href="#charity-foundation">MasieraDay</a></li>   
+            <li><a href="#what-is-a-phd">What is a PhD</a></li>
+            <!--- <li><a href="#charity-foundation">MasieraDay</a></li> --->  
             <li><a href="#research-tools">Research Tools</a></li>
             <li><a href="#cognitive-bias">Cognitive Bias</a></li>
         </ul>
@@ -122,9 +122,8 @@ nav_order: 3
         </div>
     </div>
 </div>
-
+<!--
 <hr class="section-divider">
-
 <p id="charity-foundation"></p>
 <h4>MasieraDay</h4>
 <h7>Masieraday is an association established for charitable purposes in memory of Livio Romare, a <a href="https://en.wikipedia.org/wiki/Schio">Schio</a> volleyball champion who always had a thought for the community and young people, leading him to work personally for the good of those less fortunate. <br>Masieraday is under the patronage of the Italian Ministry of Education, University and Research.<br><br></h7>
@@ -134,15 +133,21 @@ nav_order: 3
 <li>Since 2017, organization of volleyball tournaments with MasieraCup.</li> 
 <li>Since 2018, donation of 5 scholarships each year with MasieraAcademy.</li>
 </ul>
-Thanks to your <a href="https://www.masieraday.it/dona/">donations</a>, aid has been devolved to Adwa Ethiopia, Vita Onlus project, AViLL (association against leukemia and lymphomas), Burundi Chiama (long distance adoptions). <br>
+Thanks to the <a href="https://www.masieraday.it/dona/">donations</a>, aid has been devolved to Adwa Ethiopia, Vita Onlus project, AViLL (association against leukemia and lymphomas), Burundi Chiama (long distance adoptions). <br>
 On 5th December 2015 the Schio sports hall was named <a href="https://it.wikipedia.org/wiki/Palasport_Livio_Romare">Palasport Livio Romare</a>. <br>
 You can relive the association's events organised via the <a href="https://www.youtube.com/@masieradaylivioromare7060">YouTube channel</a>.<br>
-Testimonials: <em>Andrea Lucchetta, Maurizia Cacciatori, Marco Berry, Robert Grabert, Eugenio Finardi, Giancarlo Caselli, Tina Montinaro, Roberto Baggio, Jury Chechi, Paolo Simoncelli, Simona Atzori, Maxime Mbandà, Javier Zanetti, Sammy Basso, Federica Pellegrini, Roberto Vecchioni, Sandrine Gruda, Laura Roveri, Carlo Nordio, Manuel Bortuzzo, Erika Stefani, Ferdinando De Giorgi, Daniele Cassioli, Roberto Mancini.</em><br><br>
+Testimonials: <em>Andrea Lucchetta (Gold Medal at the World Cup 1990), Maurizia Cacciatori (Silver Medal at the European Cup 2001), Marco Berry (TV presenter), Robert Grabert (Gold Medal at the Olympic Games 1996), Eugenio Finardi (Rock Singer and Songwriter), Giancarlo Caselli (ex Magistrate), Tina Montinaro (Widow of the Antonio Montinaro security chief of Giovanni Falcone), Roberto Baggio (Ballon d'Or 1993), Jury Chechi (5 times Gold Medal at the World Cup and Gold Medal at the Olympic Games 1996), Paolo Simoncelli (father of Paolo Simonencelli), Maxime Mbandà (Rugby Player), Javier Zanetti (14 years captain of Inter Milan), Sammy Basso (italian activist), Federica Pellegrini (Gold Medal at the Olympic Games 2008, 6 times Gold Medal at the World Cup), Roberto Vecchioni (Singer and Songwriter), Sandrine Gruda (basketball player), Carlo Nordio (italian Ministry of Justice), Manuel Bortuzzo (Paralympics Swimmer), Erika Stefani (ex Minister for Regional Affairs and Autonomies and ex Minister for Disabilities), Ferdinando De Giorgi (italian Volleyball Team Coach), Roberto Mancini (ex italian Football Team Coach).</em><br><br>
 "I have always believed in team spirit, both in sport and in life. You young people are the future... be a team! And you will overcome all of life's obstacles" Livio (1963-2014).
-
+<br>
+<iframe width="400" height="250" src="https://www.youtube.com/embed/c2ardDQVlO8?si=HCcrfHOhMT4Eopsc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="400" height="250" src="https://www.youtube.com/embed/bWqGII2BQOY?si=ioijzXkMcZVekOG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="400" height="250" src="https://www.youtube.com/embed/qJxkA5mmVv4?si=U3hNh5mzwFB67THf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="400" height="250" src="https://www.youtube.com/embed/POPwv7HCJ8o?si=wXFRfFE9nwl3nKA9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="400" height="250" src="https://www.youtube.com/embed/NEbUTuQBW34?si=vRvq8fv58rlmDK-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+-->
 <hr class="section-divider">
 
-<p id="working hours"></p>
+<p id="working-hours"></p>
 <h4>Working Hours Tracker</h4>
 <h7>This AppleScript is designed exclusively for MacBooks and is not compatible with iPhones. It leverages iOS Shortcuts to streamline time tracking effortlessly.</h7><br>
 <em>Start Time: Click the shortcut once, and it will automatically update your "Working Time" note with the current start time. This marks the beginning of your work session.<br>
