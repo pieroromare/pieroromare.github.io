@@ -2,7 +2,7 @@
 layout: page
 permalink: /masieraday/
 title: MasieraDay
-description: 
+description: 'masiera day'
 nav: true
 cateogry: work
 nav_order: 4
