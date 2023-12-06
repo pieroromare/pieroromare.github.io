@@ -27,15 +27,19 @@
   type: time_table
   contents:
     - title: User-Driven Privacy Factors in Trigger-Action Apps - A Comparative Analysis with General IoT
-      institution: Piero Romare <br> Privacy and Identity Management. Privacy and Identity 2023. IFIP Advances in Information and Communication Technology <a href="#">[paper]</a>
+      institution: Piero Romare <br> Privacy and Identity Management - Sharing (in) a Digital World. 18th IFIP Summer School on Privacy and Identity Management <a href="#">[paper soon]</a>
       year: 2023
       
     - title: Tapping into Privacy A Study of User Preferences and Concerns on Trigger-Action Platforms
       institution: Piero Romare, Victor Morel, Farzaneh Karegar, and Simone Fischer-Hübner <br> 2023 20th Annual International Conference on Privacy, Security and Trust (PST), <a href="http://doi.org/10.1109/PST58708.2023.10320180">[paper]</a>
       year: 2023
+    
+    - title: 	Method of Authenticating a User Through Analysis of Changes in the External Ear Canal
+      institution: Mauro Conti, Stefano Cecconello, Piero Romare, Mattia Carlucci <br> World Intellectual Property Organization <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021148932">[patent]</a><a href="https://pieroromare.github.io/assets/video/eathenication_ai_voice.mp4">[video]</a>
+      year: 2021
 
     - title: Eathentication A Chewing based Authentication Method
-      institution: Mattia Carlucci, Stefano Cecconello, Mauro Conti, Piero Romare <br> 2020 IEEE Conference on Communications and Network Security (CNS) <a href="https://ieeexplore.ieee.org/iel7/9153729/9162157/09162343.pdf">[paper]</a> <a href="https://www.lens.org/images/patent/WO/2021148932/A1/WO_2021_148932_A1.pdf">[patent]</a> <a href="https://pieroromare.github.io/assets/video/eathenication_ai_voice.mp4">[video]</a>
+      institution: Mattia Carlucci, Stefano Cecconello, Mauro Conti, Piero Romare <br> 2020 IEEE Conference on Communications and Network Security (CNS) <a href="https://ieeexplore.ieee.org/iel7/9153729/9162157/09162343.pdf">[paper]</a>
       year: 2020
 
 - title: Experience

@@ -20,7 +20,7 @@ nav_order: 4
 <ul>
 <li>Since 2015, organization of volleyball matches with MasieraDay.</li>
 <li>Since 2017, organization of volleyball tournaments with MasieraCup.</li> 
-<li>Since 2018, donation of 5 scholarships each year with MasieraAcademy.</li>
+<li>Since 2018, donation of 10 scholarships each year with MasieraAcademy.</li>
 </ul>
 Thanks to the <a href="https://www.masieraday.it/dona/">donations</a>, aid has been devolved to Adwa Ethiopia, Vita Onlus project, AViLL (association against leukemia and lymphomas), Burundi Chiama (long distance adoptions). <br>
 On 5th December 2015 the Schio sports hall was named <a href="https://it.wikipedia.org/wiki/Palasport_Livio_Romare">Palasport Livio Romare</a>. <br>
