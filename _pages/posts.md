@@ -44,9 +44,23 @@ nav_order: 3
             <!--- <li><a href="#charity-foundation">MasieraDay</a></li> --->  
             <li><a href="#research-tools">Research Tools</a></li>
             <li><a href="#cognitive-bias">Cognitive Bias</a></li>
+            <li><a href="#interdisciplinarity">Interdisciplinarity</a></li>
         </ul>
     </div>
     
+
+<p id="interdisciplinarity"></p>
+<h4>Interdisciplinarity</h4>
+<h7>An interdisciplinary study means integrating the contributions from different disciplines. It involves getting familiar with, adherence to, and selecting what approaches from various fields would best produce the desired outcome. A publication could lead the development of novel solutions to complex research questions, reach a larger audience and have a great impact on society <a href="https://doi.org/10.1057/s41599-019-0352-4">[1]</a><a href="https://doi.org/10.1371/journal.pcbi.0010006">[2]</a>.
+<br>
+Quickly in practice, writing an interdisciplinary research paper requires explaining why focusing on just one topic is insufficient, as well as outlining the disciplines that should be included, their motivations, and their points of view <a href="https://www.southwestern.edu/live/files/3946-interdisciplinary">[3]</a>. So far so good, but how is it possible to submit the paper then? It is challenging finding suitable outlets for publication (and proper reviewers), as well as in meeting the standards and demonstrate the impact across different disciplines. The communication to specialized researcher in a single topic may have their own clique and may not want to include different perspectives. Indeed, when a talk is given, there should be less use of acronyms and technical vocabulary since it's not good to focus just on a single or a small group of specialized people, the audience is various and might be also outside the room. To encourage the development of a cohesive research team of researchers from several fields, more effort is required <a href="https://doi.org/10.1371/journal.pone.0267234">[4]</a> <a href="https://www.siliconrepublic.com/careers/imposter-syndrome-diversity-underrepresented-employees-inclusion">underrepresented background</a>.
+<br><br>
+I had the opportunity to chat with seniors about this topic, and I have collected some of their thoughts. I didn't ask for their permission to share their names, so I will keep them anonymous. From a professor at CMU: <em>"you need to find the magic words to interact with specialized people"</em>. From a former professor at MIT, now in the industry: <em>"with literature classes and washing machine classes, you can build great eyes and great hands, because you’ll be able to learn from one subject and apply it to another"</em>. 
+<br><br>
+Interdisciplinarity has a comorbidity with the <a href="https://www.siliconrepublic.com/advice/types-of-imposter-syndrome">impostor syndrome</a>. But being stupid is not so bad <a href="https://doi.org/10.1242/jcs.033340">[6]</a>. An italian economics, Piero Formica, gave a insightful <a href="https://www.youtube.com/watch?v=pxj8o7m0a8s">TED Talk</a> in italian, but caption are available. He reports in particular the story about <a href="https://en.wikipedia.org/wiki/John_Harrison">John Harriston</a> and mentions about <a href="https://www.gutenberg.org/files/3020/3020-h/3020-h.htm#link2H_4_0008">William Hazlitt</a>, <a href="http://www.jstor.org/stable/20013918">Socrates</a>, and <a href="https://plato.stanford.edu/archives/win2021/entries/cusanus/">Nicolas of Cusa</a>. TBC. 
+</h7>
+
+<hr class="section-divider">
 
 <p id="cognitive-bias"></p>
 <h4>Cognitive Bias</h4>

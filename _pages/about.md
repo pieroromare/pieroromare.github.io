@@ -21,8 +21,8 @@ I'm Piero Romare, PhD Student in Usable Privacy and Security at [Chalmers Univer
 
 
 ---
-I've a bachelor degree in Cognitive Psychology and Psychobiology and a master degree in Data Science from the [University of Padua](https://www.unipd.it/en/), Italy. 
-I've collaborated with the [SPRITZ Security and Privacy Research Group](https://spritz.math.unipd.it) led by [prof. Mauro Conti](https://www.math.unipd.it/~conti/) and with the [Ubiquitous Interaction Research Group](https://www.helsinki.fi/en/researchgroups/ubiquitous-interaction) at the [University of Helsinki](https://www.helsinki.fi/en) led by [prof. Giulio Jacucci](https://researchportal.helsinki.fi/en/persons/giulio-jacucci).
+I've a bachelor degree in Cognitive Psychology and Psychobiology and a master degree in Data Science from the [University of Padua](https://www.unipd.it/en/) (Italy). 
+I've collaborated with the [SPRITZ Security and Privacy Research Group](https://spritz.math.unipd.it) led by [prof. Mauro Conti](https://www.math.unipd.it/~conti/) and with the [Ubiquitous Interaction Research Group](https://www.helsinki.fi/en/researchgroups/ubiquitous-interaction) at the [University of Helsinki](https://www.helsinki.fi/en) (Finland) led by [prof. Giulio Jacucci](https://researchportal.helsinki.fi/en/persons/giulio-jacucci).
 
 ---
 
