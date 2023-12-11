@@ -3,7 +3,7 @@ layout: page
 permalink: /masieraday/
 title: MasieraDay
 description:
-nav: true
+nav: false
 cateogry: work
 nav_order: 4
 ---

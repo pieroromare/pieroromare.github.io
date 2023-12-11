@@ -3,7 +3,7 @@ layout: page
 permalink: /posts/
 title: posts
 description: work environment
-nav: true
+nav: false
 cateogry: work
 nav_order: 3
 ---
