@@ -14,6 +14,10 @@
     - title: <a href="https://www.cse.chalmers.se/research/group/security/">PhD in Usable Privacy and Security</a>
       institution: Chalmers University of Technology <br> Department of Computer Science and Engineering <br> Gothenburg, Sweden
       year: 2027
+
+    - title:  <a href="https://www.helsinki.fi/en/researchgroups/ubiquitous-interaction">Research Assistant</a>
+      institution: University of Helsinki, Finland
+      year: 2022
       
     - title: <a href="https://en.didattica.unipd.it/off/2023/LM/SC/SC2738">MSc in Data Science</a>
       institution: University of Padua <br> Department of Mathematics <br> Padua, Italy  <a href="https://pieroromare.github.io/extra/#Master's projects">[projects]</a>
@@ -41,17 +45,6 @@
     - title: Eathentication A Chewing based Authentication Method
       institution: Mattia Carlucci, Stefano Cecconello, Mauro Conti, Piero Romare <br> 2020 IEEE Conference on Communications and Network Security (CNS) <a href="https://ieeexplore.ieee.org/iel7/9153729/9162157/09162343.pdf">[paper]</a>
       year: 2020
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research Assistant
-      institution: <a href="https://www.helsinki.fi/en/researchgroups/ubiquitous-interaction">University of Helsinki, Finland</a>
-      year: 2022
-
-    - title: Data Scientist
-      institution: <a href="https://www.chisito.com">Chisito</a>
-      year: 2021
  
 - title: Research Visit
   type: time_table

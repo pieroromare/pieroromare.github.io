@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: academic CV
 title1: Long CV
 title2: Short CV
 nav: true

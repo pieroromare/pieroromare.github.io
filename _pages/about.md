@@ -2,7 +2,6 @@
 layout: about
 title: Piero Romare
 permalink: /
-subtitle: <a href='#'>Chalmers University of Technology</a>
 
 profile:
   align: right
@@ -33,8 +32,5 @@ My work is mostly about Season 6, Ep 1, Black Mirror [IMDB](https://www.imdb.com
 
 ---
 
-With my family, I participante in the events of our charity association [MasieraDay](https://pieroromare.github.io/masieraday/).
-
----
-
-Sometimes I write about PhD life [here](https://pieroromare.github.io/posts/).
+- I participate and contribute to the events of my family's charity association [MasieraDay](https://pieroromare.github.io/masieraday/). <br>
+- Sometimes I write about PhD life [here](https://pieroromare.github.io/posts/).
