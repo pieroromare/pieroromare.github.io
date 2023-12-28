@@ -29,8 +29,3 @@ My work is mostly about Season 6, Ep 1, Black Mirror [IMDB](https://www.imdb.com
 - *Usable Privacy on IoT Trigger-Action Platform*
 - *User-friendly Authentication Methods*
 - *Human-centric cybersecurity on IoT Wearable*
-
----
-
-- I participate and contribute to the events of my family's charity association [MasieraDay](https://pieroromare.github.io/masieraday/). <br>
-- Sometimes I write about PhD life [here](https://pieroromare.github.io/posts/).
