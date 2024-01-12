@@ -121,18 +121,18 @@ Interdisciplinarity has a comorbidity with the <a href="https://www.siliconrepub
 <div class="container">
     <div class="row">
         <div class="col">
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__1.pdf" alt="What_is_a_PhD__1" width="345">
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__2.pdf" alt="What_is_a_PhD__2" width="345"><br>
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__3.pdf" alt="What_is_a_PhD__3" width="345">
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__4.pdf" alt="What_is_a_PhD__4" width="345"><br>
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__5.pdf" alt="What_is_a_PhD__5" width="345">
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__6.pdf" alt="What_is_a_PhD__6" width="345"><br>
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__7.pdf" alt="What_is_a_PhD__7" width="345">
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__8.pdf" alt="What_is_a_PhD__8" width="345"><br>
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__9.pdf" alt="What_is_a_PhD__9" width="345">
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__10.pdf" alt="What_is_a_PhD__10" width="345"><br>
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__11.pdf" alt="What_is_a_PhD__11" width="345">
-            <img src="https://pieroromare.github.io/assets/pdf/What_is_a_PhD__12.pdf" alt="What_is_a_PhD__12" width="345"><br>
+            <img src="https://pieroromare.github.io/assets/img/What_is_a_PhD__1.png" alt="What_is_a_PhD__1" width="345">
+            <img src="https://pieroromare.github.io/assets/img/What_is_a_PhD__2.png" alt="What_is_a_PhD__2" width="345"><br>
+            <img src="https://pieroromare.github.io/assets/img/What_is_a_PhD__3.png" alt="What_is_a_PhD__3" width="345">
+            <img src="https://pieroromare.github.io/assets/img/What_is_a_PhD__4.png" alt="What_is_a_PhD__4" width="345"><br>
+            <img src="https://pieroromare.github.io/assets/img/What_is_a_PhD__5.png" alt="What_is_a_PhD__5" width="345">
+            <img src="https://pieroromare.github.io/assets/img/What_is_a_PhD__6.png" alt="What_is_a_PhD__6" width="345"><br>
+            <img src="https://pieroromare.github.io/assets/img/What_is_a_PhD__7.png" alt="What_is_a_PhD__7" width="345">
+            <img src="https://pieroromare.github.io/assets/img/What_is_a_PhD__8.png" alt="What_is_a_PhD__8" width="345"><br>
+            <img src="https://pieroromare.github.io/assets/img/What_is_a_PhD__9.png" alt="What_is_a_PhD__9" width="345">
+            <img src="https://pieroromare.github.io/assets/img/What_is_a_PhD__10.png" alt="What_is_a_PhD__10" width="345"><br>
+            <img src="https://pieroromare.github.io/assets/img/What_is_a_PhD__11.png" alt="What_is_a_PhD__11" width="345">
+            <img src="https://pieroromare.github.io/assets/img/What_is_a_PhD__12.png" alt="What_is_a_PhD__12" width="345"><br>
         </div>
     </div>
 </div>
