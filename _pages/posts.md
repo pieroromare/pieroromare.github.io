@@ -2,7 +2,7 @@
 layout: page
 permalink: /posts/
 title: posts
-description: work environment
+description: 
 nav: false
 cateogry: work
 nav_order: 3
@@ -41,23 +41,69 @@ nav_order: 3
         <ul class="horizontal-nav">
             <li><a href="#working-hours">Working Hours Tracker</a></li>
             <li><a href="#what-is-a-phd">What is a PhD</a></li>
-            <!--- <li><a href="#charity-foundation">MasieraDay</a></li> --->  
             <li><a href="#research-tools">Research Tools</a></li>
             <li><a href="#cognitive-bias">Cognitive Bias</a></li>
             <li><a href="#interdisciplinarity">Interdisciplinarity</a></li>
+            <li><a href="#big-tech-fines">Big Tech Fines 2023</a></li>
         </ul>
     </div>
     
 
+<p id="big-tech-fines"></p>
+<h4>Big Tech Fines 2023</h4>
+<h7>Do the big tech provide a service or a product that is free? No, they don't. They are selling our data and it might be okay for some people, but as every market, they should follow the law. The European Union has been one of the first to take action, but the fines are not enough. Just take a look on this <a href="https://proton.me/blog/big-tech-2023-fines-vs-revenue">Proton post</a> for futher information and on how they did the calculations. The table is reported below and can be also double verified, at least for what concern the European fines, by looking at <a href="https://www.enforcementtracker.com/">GDPR Enforcement Tracker</a>.
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Fines in $ in 2023</th>
+    <th>Time to pay them off</th>
+  </tr>
+  <tr>
+   <td>Alphabet</td>
+   <td>941 million</td>
+   <td>1 day, 3 hours, 55 minutes</td>
+  </tr>
+  <tr>
+    <td>Amazon</td>
+    <td>111.7 million</td>
+    <td>1 hour, 50 minutes</td>
+  </tr>
+    <tr>
+   <td>Apple</td>
+   <td>186.4 million</td>
+   <td>4 hours, 15 minutes</td>
+  </tr>
+  <tr>
+    <td>Meta</td>
+    <td>1720 million</td>
+    <td>5 days, 13 hours, 25 minutes</td>
+  </tr>
+    <tr>
+   <td>Microsoft</td>
+   <td>84 million</td>
+   <td>3 hours, 30 minutes</td>
+  </tr>
+</table>
+P.S. companies somehow refuse to pay the fines.
+
+
+<hr class="section-divider">
+
 <p id="interdisciplinarity"></p>
 <h4>Interdisciplinarity</h4>
 <h7>An interdisciplinary study means integrating the contributions from different disciplines. It involves getting familiar with, adherence to, and selecting what approaches from various fields would best produce the desired outcome. A publication could lead the development of novel solutions to complex research questions, reach a larger audience and have a great impact on society <a href="https://doi.org/10.1057/s41599-019-0352-4">[1]</a><a href="https://doi.org/10.1371/journal.pcbi.0010006">[2]</a>.
+<br><br>
+Some definitions from <a href="https://pubmed.ncbi.nlm.nih.gov/17330451/">[3]</a>:
+<li>Disciplinarity: the study of a specific subject or field, focusing on its own rules, methods, and principles.</li>
+<li>Multidisciplinarity: the study of a subject from multiple different disciplines simultaneously, but the disciplines remain separate from each other.</li>
+<li>Interdisciplinarity: the study of approaches from different disciplines into a new and coherent whole.</li>
+<li>Transdisciplinarity: the study that integrates and transcends disciplinary boundaries, bridging humanities and sciences.</li>
 <br>
-Quickly in practice, writing an interdisciplinary research paper requires explaining why focusing on just one topic is insufficient, as well as outlining the disciplines that should be included, their motivations, and their points of view <a href="https://www.southwestern.edu/live/files/3946-interdisciplinary">[3]</a>. So far so good, but how is it possible to submit the paper then? It is challenging finding suitable outlets for publication (and proper reviewers), as well as in meeting the standards and demonstrate the impact across different disciplines. The communication to specialized researcher in a single topic may have their own clique and may not want to include different perspectives. Indeed, when a talk is given, there should be less use of acronyms and technical vocabulary since it's not good to focus just on a single or a small group of specialized people, the audience is various and might be also outside the room. To encourage the development of a cohesive research team of researchers from several fields, more effort is required <a href="https://doi.org/10.1371/journal.pone.0267234">[4]</a> <a href="https://www.siliconrepublic.com/careers/imposter-syndrome-diversity-underrepresented-employees-inclusion">underrepresented background</a>.
+Quickly in practice, writing an interdisciplinary research paper requires explaining why focusing on just one topic is insufficient, as well as outlining the disciplines that should be included, their motivations, and their points of view <a href="https://www.southwestern.edu/live/files/3946-interdisciplinary">[4]</a>. So far so good, but how is it possible to submit the paper then? It is challenging finding suitable outlets for publication (and reviewers), as well as in meeting the standards and demonstrate the impact across different disciplines. The communication to specialized researcher in a single topic may have their own clique and may not want to include different perspectives, but a few sensational and complex terms might be added to get their attention. When a talk is given, there should be less use of acronyms and technical vocabulary since it's not good to focus just on a single or a small group of specialized people, the audience is various and might be also outside the room. To encourage the development of a cohesive research team of researchers from several fields, more effort is required <a href="https://doi.org/10.1371/journal.pone.0267234">[5]</a> <a href="https://www.siliconrepublic.com/careers/imposter-syndrome-diversity-underrepresented-employees-inclusion">underrepresented background</a>.
 <br><br>
 I had the opportunity to chat with seniors about this topic, and I have collected some of their thoughts. I didn't ask for their permission to share their names, so I will keep them anonymous. From a professor at CMU: <em>"you need to find the magic words to interact with specialized people"</em>. From a former professor at MIT, now in the industry: <em>"with literature classes and washing machine classes, you can build great eyes and great hands, because you’ll be able to learn from one subject and apply it to another"</em>. 
 <br><br>
-Interdisciplinarity has a comorbidity with the <a href="https://www.siliconrepublic.com/advice/types-of-imposter-syndrome">impostor syndrome</a>. But being stupid is not so bad <a href="https://doi.org/10.1242/jcs.033340">[6]</a>. An italian economics, Piero Formica, gave a insightful <a href="https://www.youtube.com/watch?v=pxj8o7m0a8s">TED Talk</a> in italian, but caption are available. He reports in particular the story about <a href="https://en.wikipedia.org/wiki/John_Harrison">John Harriston</a> and mentions about <a href="https://www.gutenberg.org/files/3020/3020-h/3020-h.htm#link2H_4_0008">William Hazlitt</a>, <a href="http://www.jstor.org/stable/20013918">Socrates</a>, and <a href="https://plato.stanford.edu/archives/win2021/entries/cusanus/">Nicolas of Cusa</a>. TBC. 
+Interdisciplinarity has a comorbidity with the <a href="https://www.siliconrepublic.com/advice/types-of-imposter-syndrome">impostor syndrome</a>. But being stupid is not so bad <a href="https://doi.org/10.1242/jcs.033340">[6]</a>. An italian economics, Piero Formica, gave a insightful <a href="https://www.youtube.com/watch?v=pxj8o7m0a8s">TED Talk</a> in italian, but caption are available. He reports in particular the story about <a href="https://en.wikipedia.org/wiki/John_Harrison">John Harriston</a> and mentions about <a href="https://www.gutenberg.org/files/3020/3020-h/3020-h.htm#link2H_4_0008">William Hazlitt</a>, <a href="http://www.jstor.org/stable/20013918">Socrates</a>, and <a href="https://plato.stanford.edu/archives/win2021/entries/cusanus/">Nicolas of Cusa</a>. 
 </h7>
 
 <hr class="section-divider">
@@ -136,29 +182,8 @@ Interdisciplinarity has a comorbidity with the <a href="https://www.siliconrepub
         </div>
     </div>
 </div>
-<!--
-<hr class="section-divider">
-<p id="charity-foundation"></p>
-<h4>MasieraDay</h4>
-<h7>Masieraday is an association established for charitable purposes in memory of Livio Romare, a <a href="https://en.wikipedia.org/wiki/Schio">Schio</a> volleyball champion who always had a thought for the community and young people, leading him to work personally for the good of those less fortunate. <br>Masieraday is under the patronage of the Italian Ministry of Education, University and Research.<br><br></h7>
-<h5><a href="https://www.masieraday.it/en/">MasieraDay (ENG)</a> - <a href="https://www.masieraday.it/">MasieraDay (IT)</a>   <img src="https://pieroromare.github.io/assets/img/masieraday.png" alt="MasieraDay Icon" width="200"></h5>
-<ul>
-<li>Since 2015, organization of volleyball matches with MasieraDay.</li>
-<li>Since 2017, organization of volleyball tournaments with MasieraCup.</li> 
-<li>Since 2018, donation of 5 scholarships each year with MasieraAcademy.</li>
-</ul>
-Thanks to the <a href="https://www.masieraday.it/dona/">donations</a>, aid has been devolved to Adwa Ethiopia, Vita Onlus project, AViLL (association against leukemia and lymphomas), Burundi Chiama (long distance adoptions). <br>
-On 5th December 2015 the Schio sports hall was named <a href="https://it.wikipedia.org/wiki/Palasport_Livio_Romare">Palasport Livio Romare</a>. <br>
-You can relive the association's events organised via the <a href="https://www.youtube.com/@masieradaylivioromare7060">YouTube channel</a>.<br>
-Testimonials: <em>Andrea Lucchetta (Gold Medal at the World Cup 1990), Maurizia Cacciatori (Silver Medal at the European Cup 2001), Marco Berry (TV presenter), Robert Grabert (Gold Medal at the Olympic Games 1996), Eugenio Finardi (Rock Singer and Songwriter), Giancarlo Caselli (ex Magistrate), Tina Montinaro (Widow of the Antonio Montinaro security chief of Giovanni Falcone), Roberto Baggio (Ballon d'Or 1993), Jury Chechi (5 times Gold Medal at the World Cup and Gold Medal at the Olympic Games 1996), Paolo Simoncelli (father of Paolo Simonencelli), Maxime Mbandà (Rugby Player), Javier Zanetti (14 years captain of Inter Milan), Sammy Basso (italian activist), Federica Pellegrini (Gold Medal at the Olympic Games 2008, 6 times Gold Medal at the World Cup), Roberto Vecchioni (Singer and Songwriter), Sandrine Gruda (basketball player), Carlo Nordio (italian Ministry of Justice), Manuel Bortuzzo (Paralympics Swimmer), Erika Stefani (ex Minister for Regional Affairs and Autonomies and ex Minister for Disabilities), Ferdinando De Giorgi (italian Volleyball Team Coach), Roberto Mancini (ex italian Football Team Coach).</em><br><br>
-"I have always believed in team spirit, both in sport and in life. You young people are the future... be a team! And you will overcome all of life's obstacles" Livio (1963-2014).
-<br>
-<iframe width="400" height="250" src="https://www.youtube.com/embed/c2ardDQVlO8?si=HCcrfHOhMT4Eopsc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="400" height="250" src="https://www.youtube.com/embed/bWqGII2BQOY?si=ioijzXkMcZVekOG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="400" height="250" src="https://www.youtube.com/embed/qJxkA5mmVv4?si=U3hNh5mzwFB67THf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="400" height="250" src="https://www.youtube.com/embed/POPwv7HCJ8o?si=wXFRfFE9nwl3nKA9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="400" height="250" src="https://www.youtube.com/embed/NEbUTuQBW34?si=vRvq8fv58rlmDK-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
--->
+</h7>
+
 <hr class="section-divider">
 
 <p id="working-hours"></p>
