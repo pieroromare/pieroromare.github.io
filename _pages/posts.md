@@ -49,46 +49,6 @@ nav_order: 3
     </div>
     
 
-<p id="big-tech-fines"></p>
-<h4>Big Tech Fines 2023</h4>
-<h7>Do the big tech provide a service or a product that is free? No, they don't. They are selling our data and it might be okay for some people, but as every market, they should follow the law. The European Union has been one of the first to take action, but the fines are not enough. Just take a look on this <a href="https://proton.me/blog/big-tech-2023-fines-vs-revenue">Proton post</a> for futher information and on how they did the calculations. The table is reported below and can be also double verified, at least for what concern the European fines, by looking at <a href="https://www.enforcementtracker.com/">GDPR Enforcement Tracker</a>.
-<table>
-  <tr>
-    <th>Company</th>
-    <th>Fines in $ in 2023</th>
-    <th>Time to pay them off</th>
-  </tr>
-  <tr>
-   <td>Alphabet</td>
-   <td>941 million</td>
-   <td>1 day, 3 hours, 55 minutes</td>
-  </tr>
-  <tr>
-    <td>Amazon</td>
-    <td>111.7 million</td>
-    <td>1 hour, 50 minutes</td>
-  </tr>
-    <tr>
-   <td>Apple</td>
-   <td>186.4 million</td>
-   <td>4 hours, 15 minutes</td>
-  </tr>
-  <tr>
-    <td>Meta</td>
-    <td>1720 million</td>
-    <td>5 days, 13 hours, 25 minutes</td>
-  </tr>
-    <tr>
-   <td>Microsoft</td>
-   <td>84 million</td>
-   <td>3 hours, 30 minutes</td>
-  </tr>
-</table>
-P.S. companies somehow refuse to pay the fines.
-
-
-<hr class="section-divider">
-
 <p id="interdisciplinarity"></p>
 <h4>Interdisciplinarity</h4>
 <h7>An interdisciplinary study means integrating the contributions from different disciplines. It involves getting familiar with, adherence to, and selecting what approaches from various fields would best produce the desired outcome. A publication could lead the development of novel solutions to complex research questions, reach a larger audience and have a great impact on society <a href="https://doi.org/10.1057/s41599-019-0352-4">[1]</a><a href="https://doi.org/10.1371/journal.pcbi.0010006">[2]</a>.
