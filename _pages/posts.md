@@ -44,10 +44,39 @@ nav_order: 3
             <li><a href="#research-tools">Research Tools</a></li>
             <li><a href="#cognitive-bias">Cognitive Bias</a></li>
             <li><a href="#interdisciplinarity">Interdisciplinarity</a></li>
-            <li><a href="#big-tech-fines">Big Tech Fines 2023</a></li>
+            <li><a href="#academic-study-steps">Academic Study Steps</a></li>
         </ul>
     </div>
-    
+
+
+<p id="academic-study-steps">
+<h4>Academic Study Steps</h4>
+<h7>Here it follows an explanation of what are the academic study steps compared to the cooking steps:</h7>
+<ol>
+    <li>When you are a bacherlor student:</li>
+    <ol>
+        <li>Someone goes to the groceries and buys food for you</li>
+        <li>You get an overview of their recipe</li>
+        <li>Someone cooks their recipe together with you</li>
+        <li>Someone tastes your dish</li>
+    </ol>
+    <li>When you are a master student:</li>
+    <ol>
+        <li>Someone goes to the groceries and buys food for you</li>
+        <li>You get an overview of their recipe</li>
+        <li>You cook their recipe</li>
+        <li>Someone tastes your dish</li>
+    </ol>
+    <li>When you are a PhD student:</li>
+    <ol>
+        <li>Someone goes to the groceries and buys food for you</li>
+        <li>You create a new recipe or modify an existing one</li>
+        <li>You cook your recipe while someone checks you don't get burned </li>
+        <li>Someone tastes your dish</li>
+    </ol>
+</ol>
+
+<hr class="section-divider">
 
 <p id="interdisciplinarity"></p>
 <h4>Interdisciplinarity</h4>
