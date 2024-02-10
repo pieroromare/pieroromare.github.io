@@ -32,5 +32,4 @@ My work is mostly about Season 6, Ep 1, Black Mirror [IMDB](https://www.imdb.com
 
 ---
 
-Some posts about my work environment are [here](https://pieroromare.github.io/posts) \
 Some information about my family's charity association are [here](https://pieroromare.github.io/masieraday)
