@@ -31,5 +31,4 @@ My work is mostly about Season 6, Ep 1, Black Mirror [IMDB](https://www.imdb.com
 - *Human-centric cybersecurity on IoT Wearable*
 
 ---
-
 Some information about my family's charity association are [here](https://pieroromare.github.io/masieraday)
