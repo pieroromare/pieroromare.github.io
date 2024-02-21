@@ -15,9 +15,12 @@
       institution: Chalmers University of Technology <br> Department of Computer Science and Engineering <br> Gothenburg, Sweden
       year: 2027
 
-    - title:  <a href="https://www.helsinki.fi/en/researchgroups/ubiquitous-interaction">Research Assistant</a>
+    - title:  <a href="https://www.helsinki.fi/en/researchgroups/ubiquitous-interaction">Research Assistant in Human-Computer Interaction</a>
       institution: University of Helsinki, Finland
       year: 2022
+
+    - title: <a href="https://spritz.math.unipd.it/">MSc Researcher in User-Friendly Authentication
+      institution: University of Padua <br> SPRITZ Security and Privacy Research Group <br> Padua, Italy
       
     - title: <a href="https://en.didattica.unipd.it/off/2023/LM/SC/SC2738">MSc in Data Science</a>
       institution: University of Padua <br> Department of Mathematics <br> Padua, Italy  <a href="https://pieroromare.github.io/extra/#Master's projects">[projects]</a>
@@ -74,7 +77,7 @@
     - title: <a href="https://spritz.math.unipd.it/events/2019/PIU2019/PagesOutput/MLS/index.html">Machine Learning and Security Summer School</a>
       year: Sept 2019
       description:
-        - Brain-Computer Interface and Security - do NOT open the Brain Black Box
+        - 
 
 - title: Teaching
   type: time_table
@@ -98,19 +101,4 @@
 - title: Poster and Presentation
   type: time_table
   contents:
-    - title: <a href="https://www.chalmers.se/en/current/calendar/ict-navigate-in-the-cybersecurity/">Navigating the Cybersecurity Landscape</a>
-      year: Oct 2023
-      description:
-        - Privacy Profiles for Enhanced Privacy Permission Management in Trigger-Action Platforms
-    - title: <a href="https://www.mit.edu">Massachusetts Institute of Technology</a>
-      year: Sept 2023
-      description: 
-        - Privacy Profiles for Enhanced Privacy Permission Management in Trigger-Action Platforms
-    - title: <a href="https://www.pitt.edu">University of Pittsburgh</a>
-      year: Sept 2023
-      description:
-        - Usable Privacy and Security on IoT Trigger-Action Platforms
-    - title: <a href="https://sola.kau.se/swits/en/">SWITS</a>
-      year: May 2023
-      description: 
-        - Segmenting Privacy Profiles in Trigger Action Platform Applets for Usable Permission Management
+    - title: WASP Winter Conference, Jan 2024; Chalmers University of Technology, Oct 2023; Massachusetts Institute of Technology, Sept 2023; University of Pittsburgh, Sept 2023; RISE Stockholm,  Sept 2023; SWITS Swedish IT Security Network for PhD Students, May 2023; University of Padua, May 2023; Karlstad Univeristy, Nov 2022.
