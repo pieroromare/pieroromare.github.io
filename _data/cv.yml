@@ -21,6 +21,7 @@
 
     - title: <a href="https://spritz.math.unipd.it/">MSc Researcher in User-Friendly Authentication
       institution: University of Padua <br> SPRITZ Security and Privacy Research Group <br> Padua, Italy
+      year: 2021
       
     - title: <a href="https://en.didattica.unipd.it/off/2023/LM/SC/SC2738">MSc in Data Science</a>
       institution: University of Padua <br> Department of Mathematics <br> Padua, Italy  <a href="https://pieroromare.github.io/extra/#Master's projects">[projects]</a>
@@ -42,7 +43,7 @@
       year: 2023
     
     - title: 	Method of Authenticating a User Through Analysis of Changes in the External Ear Canal
-      institution: Mauro Conti, Stefano Cecconello, Piero Romare, Mattia Carlucci <br> World Intellectual Property Organization <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021148932">[patent]</a><a href="https://pieroromare.github.io/assets/video/eathenication_ai_voice.mp4">[video]</a>
+      institution: Mauro Conti, Stefano Cecconello, Piero Romare, Mattia Carlucci <br> World Intellectual Property Organization <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021148932">[patent]</a>
       year: 2021
 
     - title: Eathentication A Chewing based Authentication Method
@@ -64,20 +65,12 @@
   contents:
     - title: <a href="https://www.arcadian-iot.eu/summerschool/">Arcadian-IoT Summer School</a>
       year: Sept 2023
-      description:
-        - IoT Cybersecurity - Tackling Challenges and Opportunities
     - title: <a href="http://wasp-sweden.org/">WASP Community Building Summer School</a>
       year: Aug 2023
-      description:
-        - AI, Autonomous System and Software Program
     - title: <a href="https://ifip-summerschool.github.io">IFIP Summer School</a>
       year: Aug 2023
-      description: 
-        - Contrasting Traditional IoT with User-Driven Privacy Factors in Trigger-Action Apps
     - title: <a href="https://spritz.math.unipd.it/events/2019/PIU2019/PagesOutput/MLS/index.html">Machine Learning and Security Summer School</a>
       year: Sept 2019
-      description:
-        - 
 
 - title: Teaching
   type: time_table
@@ -101,4 +94,4 @@
 - title: Poster and Presentation
   type: time_table
   contents:
-    - title: WASP Winter Conference, Jan 2024; Chalmers University of Technology, Oct 2023; Massachusetts Institute of Technology, Sept 2023; University of Pittsburgh, Sept 2023; RISE Stockholm,  Sept 2023; SWITS Swedish IT Security Network for PhD Students, May 2023; University of Padua, May 2023; Karlstad Univeristy, Nov 2022.
+    - institution: WASP Winter Conference (Jan 2024);<br> Chalmers University of Technology (Oct 2023);<br> Massachusetts Institute of Technology (Sept 2023);<br> University of Pittsburgh (Sept 2023);<br> RISE Stockholm (Sept 2023);<br> SWITS Swedish IT Security Network for PhD Students (May 2023);<br> University of Padua (May 2023);<br> Karlstad Univeristy (Nov 2022).
