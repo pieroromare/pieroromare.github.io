@@ -16,7 +16,7 @@
       year: 2027
 
     - title:  <a href="https://www.helsinki.fi/en/researchgroups/ubiquitous-interaction">Research Assistant in Human-Computer Interaction</a>
-      institution: University of Helsinki, Finland
+      institution: University of Helsinki, <br> Ubiquitous Interaction Research Group <br> Helsinki, Finland
       year: 2022
 
     - title: <a href="https://spritz.math.unipd.it/">MSc Researcher in User-Friendly Authentication
@@ -35,7 +35,7 @@
   type: time_table
   contents:
     - title: User-Driven Privacy Factors in Trigger-Action Apps - A Comparative Analysis with General IoT
-      institution: Piero Romare <br> Privacy and Identity Management - Sharing (in) a Digital World. 18th IFIP Summer School on Privacy and Identity Management <a href="#">[paper soon]</a>
+      institution: Piero Romare <br> Privacy and Identity Management - Sharing (in) a Digital World. 18th IFIP Summer School on Privacy and Identity Management <a href="#">https://pieroromare.github.io/assets/pdf/C003.pdf</a>
       year: 2023
       
     - title: Tapping into Privacy A Study of User Preferences and Concerns on Trigger-Action Platforms
