@@ -1,11 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Piero Romare
-    - name: Languages
-      value: English, Italian
-
 - title: Education
   type: time_table
   contents:
@@ -50,11 +42,9 @@
  
 - title: Research Visit
   type: time_table
-  contents: 
+  contents:
     - title: <a href="https://spg.ethz.ch/">ETH Zurich</a>
       year: May 2024
-    - title: <a href="https://www.cmu.edu">Carnegie Mellon University</a>
-      year: Sept 2023
     - title: <a href="https://www.unipd.it">University of Padua</a>
       year: Apr-May 2023
     - title: <a href="https://www.kau.se">Karlstad University</a>
@@ -101,4 +91,18 @@
 - title: Poster and Presentation
   type: time_table
   contents:
-    - institution: CISPA Helmholtz Center for Information Security (Jul 2024)<br>Lund University (May 2024)<br>ETH Zurich (May 2024)<br> Chalmers University of Technology (Oct 2023)<br> Massachusetts Institute of Technology (Sept 2023)<br> University of Pittsburgh (Sept 2023)<br> RISE Stockholm (Sept 2023)<br>Denmark Technical University (Aug 2023)<br>Oslo University (Aug 2023)<br>Uppsala University (May 2023)<br> University of Padua (May 2023)<br> Karlstad Univeristy (Nov 2022).
+    - institution: <I>Mitsubishi Information Technology Research Institute (Oct 2024) - Tokyo, Japan <br>
+                      Meiji University (Oct 2024) - Tokyo, Japan <br>
+                      CISPA Helmholtz Center (Jul 2024) - Saarbrücken, Germany<br>
+                      Lund University (May 2024) - Lund, Sweden<br>
+                      ETH Zurich (May 2024) - Zurich, Switzerland<br>
+                      WASP Winter Conference (Jan 2024) - Norrköping, Sweden<br>
+                      Chalmers University of Technology (Oct 2023) - Gothenburg, Sweden<br>
+                      Massachusetts Institute of Technology (Sept 2023) - Boston, USA<br>
+                      University of Pittsburgh (Sept 2023), Pittsburgh, USA<br>
+                      RISE Stockholm (Sept 2023) - Stockholm, Sweden<br>
+                      Denmark Technical University (Aug 2023) - Copenhagen, Denmark<br>
+                      Oslo University (Aug 2023) - Oslo, Norway<br>
+                      Uppsala University (May 2023) - Uppsala, Sweden<br>
+                      University of Padua (May 2023) - Padua, Italy<br>
+                      Karlstad Univeristy (Nov 2022) - Karlstad, Sweden</I>
