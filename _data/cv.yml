@@ -47,8 +47,6 @@
       year: May 2024
     - title: <a href="https://www.unipd.it">University of Padua</a>
       year: Apr-May 2023
-    - title: <a href="https://www.kau.se">Karlstad University</a>
-      year: Nov 2022
 
 - title: Summer School
   type: time_table
@@ -71,14 +69,14 @@
   contents:
     - title: Object-Oriented Programming
       institution: Chalmers University of Technology <br> Department of Computer Science and Engineering
-      year: 2024/2025
+      year: 2024 - current
     - title: Advanced Programming in Python
       institution: Chalmers University of Technology <br> Department of Computer Science and Engineering
-      year: 2022/2023 - current
+      year: 2022 - current
 
     - title: Tangible Interaction
       institution: Chalmers University of Technology <br> Department of Computer Science and Engineering
-      year: 2022/2023 - current
+      year: 2022 - current
 
     - title: Introduction to Programming in Python
       institution: Chalmers University of Technology <br> Department of Computer Science and Engineering
