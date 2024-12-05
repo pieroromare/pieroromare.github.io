@@ -25,7 +25,11 @@ I've collaborated with the [SPRITZ Security and Privacy Research Group](https://
 
 ---
 
-My work is mostly about Season 6, Ep 1, Black Mirror [IMDB](https://www.imdb.com/title/tt20247352/)
+Research Interests:
 - *Usable Privacy on IoT Trigger-Action Platform*
 - *User-friendly Authentication Methods*
 - *Human-centric cybersecurity on IoT Wearable*
+
+Master's Thesis Proposal:
+- *[Biometric User Authentication on Smart Glasses](https://pieroromare.github.io/assets/pdf/Smart_Glasses_Authentication_Proposal.pdf)*
+- *[Tangible Privacy](https://pieroromare.github.io/assets/pdf/Tangible_Interfaces_Proposal.pdf)*
