@@ -22,23 +22,28 @@ I've a bachelor degree in Cognitive Psychology and Psychobiology and a master de
 I've collaborated with the [SPRITZ Security and Privacy Research Group](https://spritz.math.unipd.it) led by [prof. Mauro Conti](https://www.math.unipd.it/~conti/) and with the [Ubiquitous Interaction Research Group](https://www.helsinki.fi/en/researchgroups/ubiquitous-interaction) at the [University of Helsinki](https://www.helsinki.fi/en) (Finland) led by [prof. Giulio Jacucci](https://researchportal.helsinki.fi/en/persons/giulio-jacucci).
 
 ---
-
 <h4>Research Interests</h4>
-- *Usable Privacy on IoT Automations*
-- *User-friendly Authentication Methods*
-- *Tangible Privacy*
-
-<h5>Teaching</h5>
-- *Object Oriented Programming* (Chalmers University of Technology, 2024-current)
-- *Advanced Programming in Python* (Chalmers University of Technology, 2022-current)
-- *Tangible Interaction* (Chalmers University of Technology, 2022-current)
-- *Introduction to Programming in Python* (Chalmers University of Technology, 2022-2023)
-- *Cognitive, Behaviour and Social Data* (University of Padua, 2021-2022)
+- *Usable Privacy in IoT Automated Applications on IFTTT tool*
+- *IoT Human-Centric Authentication on Earphones and Smart Glasses*
+- *Tangible Privacy on Smartphone and Smart Home*
 
 ---
+<a href="/assets/pdf/CV.pdf" target="_blank" rel="noopener noreferrer" class="float-right" style="margin-right: 20px;"><i class="fas fa-file-pdf"></i> Download CV</a>
 
 <h4>Publications</h4>
 <ul style="list-style-type: none; padding-left: 0;">
+  <li style="margin-bottom: 1em;">
+    Romare, Piero. 
+    "A User-Centric Approach to Usable Privacy for IoT Trigger-Action Platforms." 
+    <em>Research Chalmers</em>, Licentiate thesis, Chalmers University of Technology, Gothenburg, Sweden, 2025.
+    <a href="https://research.chalmers.se/publication/544575/file/544575_Fulltext.pdf">[introduction]</a>
+  </li>
+  <li style="margin-bottom: 1em;">
+      Romare, Piero; Karegar, Farzaneh; Fischer-Hübner, Simone.  
+      "Towards Usable Privacy Management for IoT TAPs: Deriving Privacy Clusters and Preference Profiles" 
+      <em>Under submission. </em>
+      <a href="">[paper not yet]</a>
+  </li>
   <li style="margin-bottom: 1em;">
     Romare, Piero. "User-Driven Privacy Factors in Trigger-Action Apps: A Comparative Analysis with General IoT." 
     <em>Privacy and Identity Management - Sharing (in) a Digital World. 18th IFIP Summer School on Privacy and Identity Management</em>, Springer International Publishing, Cham, 2023.
@@ -60,9 +65,18 @@ I've collaborated with the [SPRITZ Security and Privacy Research Group](https://
     Conti, Mauro; Cecconello, Stefano; Romare, Piero; Carlucci, Mattia. 
     "Method of Authenticating a User Through Analysis of Changes in the External Ear Canal." 
     <em>WIPO PCT/IB2021/050369</em>, January 2021. 
-    <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021148932">[paper] </a><a href="https://pieroromare.github.io/extra">[Video]</a>
+    <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021148932">[patent] </a><a href="https://pieroromare.github.io/extra">[video]</a>
   </li>
 </ul>
+
+---
+
+<h4>Teaching</h4>
+- *Object Oriented Programming* (Chalmers University of Technology, 2024-current)
+- *Advanced Programming in Python* (Chalmers University of Technology, 2022-current)
+- *Tangible Interaction* (Chalmers University of Technology, 2022-current)
+- *Introduction to Programming in Python* (Chalmers University of Technology, 2022-2023)
+- *Cognitive, Behaviour and Social Data* (University of Padua, 2021-2022)
 
 ---
 

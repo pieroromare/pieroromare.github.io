@@ -21,6 +21,7 @@ nav_order: 7
         <ul>
             <li><a href="#Eathentication video">Eathentication video</a></li>
             <li><a href="#Master's projects">Data Science projects</a></li>     
+            <li><a href="#Personal projects">Other projects</a></li>
         </ul>
     </div>
 
@@ -33,9 +34,10 @@ This video was originally created for the presentation at the Intellectual Prope
 
 <p id="Master's projects"></p>
 This is a list of the projects I did during my Master's degree in Data Science at the University of Padua.
-<ul>
     <li>Biological Data: <a href="https://pieroromare.github.io/assets/pdf/biological_data.pdf"> Single protein domain to Functional Characterization of the Homologous Proteins</a></li>
     <li>Law Data: <a href="https://pieroromare.github.io/assets/pdf/law_data.pdf">Law and Order - a Search Engine for Italian Laws</a></li>
     <li>News Data: <a href="https://pieroromare.github.io/assets/pdf/news_data.pdf">Low Credibility Media on Twitter during Coronavuris Emergency in Italy</a></li>
     <li>Business Data: <a href="https://pieroromare.github.io/assets/pdf/business_data.pdf">Behavior of the urban traffic of the city of Sao Paulo in Brazil</a></li>
     <li>Behavioral Data: <a href="https://pieroromare.github.io/assets/pdf/behavioral_data.pdf">Spotting Fake Reviews</a></li>
+
+<hr>
