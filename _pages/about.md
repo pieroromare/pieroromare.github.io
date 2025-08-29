@@ -15,7 +15,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I'm Piero Romare, PhD Student in Usable Privacy and Security at [Chalmers University of Technology](https://www.chalmers.se), Gothenburg (Sweden), supervised by [prof. Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner) in the [WASP Graduate School](https://wasp-sweden.org).
+I'm Piero Romare, PhD Student in Usable Privacy and Security at [Chalmers University of Technology](https://www.chalmers.se), Gothenburg (Sweden), supervised by [prof. Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner), co-supervised by [prof. Morten Fjeld](https://www.chalmers.se/en/persons/fjeld/) and [Dr. Farzaneh Karegar](https://www.kau.se/en/researchers/farzaneh-karegar) in the [WASP Graduate School](https://wasp-sweden.org). 
 
 
 I've a bachelor degree in Cognitive Psychology and Psychobiology and a master degree in Data Science from the [University of Padua](https://www.unipd.it/en/) (Italy).  
@@ -82,6 +82,7 @@ I've collaborated with the [SPRITZ Security and Privacy Research Group](https://
 
 <h4>Posters and Presentations</h4>
 
+AsiaCCS (Aug 2025) - Hanoi, Vietnam <br>
 Mitsubishi Information Technology Research Institute (Oct 2024) - Tokyo, Japan <br>
 Meiji University (Oct 2024) - Tokyo, Japan <br>
 CISPA Helmholtz Center (Jul 2024) - Saarbrücken, Germany<br>
