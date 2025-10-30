@@ -15,7 +15,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I'm Piero Romare, PhD Student in Usable Privacy and Security at [Chalmers University of Technology](https://www.chalmers.se), Gothenburg (Sweden), supervised by [prof. Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner), co-supervised by [prof. Morten Fjeld](https://www.chalmers.se/en/persons/fjeld/) and [Dr. Farzaneh Karegar](https://www.kau.se/en/researchers/farzaneh-karegar) in the [WASP Graduate School](https://wasp-sweden.org). 
+I'm Piero Romare, PhD Student in Usable Privacy and Security at [Chalmers University of Technology](https://www.chalmers.se), Gothenburg (Sweden), supervised by [prof. Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner), co-supervised by [prof. Morten Fjeld](https://www.chalmers.se/en/persons/fjeld/) and [Dr. Farzaneh Karegar](https://www.kau.se/en/researchers/farzaneh-karegar) in the [WASP Wallenberg AI, Autonomous Systems and Software Program](https://wasp-sweden.org). 
 
 
 I've a bachelor degree in Cognitive Psychology and Psychobiology and a master degree in Data Science from the [University of Padua](https://www.unipd.it/en/) (Italy).  
@@ -42,7 +42,7 @@ I've collaborated with the [SPRITZ Security and Privacy Research Group](https://
       Romare, Piero; Karegar, Farzaneh; Fischer-Hübner, Simone.  
       "Towards Usable Privacy Management for IoT TAPs: Deriving Privacy Clusters and Preference Profiles" 
       <em>Under submission. </em>
-      <a href="">[paper not yet]</a>
+      <a href="/assets/pdf/C005.pdf">[preprint]</a>
   </li>
   <li style="margin-bottom: 1em;">
     Romare, Piero. "User-Driven Privacy Factors in Trigger-Action Apps: A Comparative Analysis with General IoT." 
