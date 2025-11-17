@@ -42,7 +42,7 @@ I've collaborated with the [SPRITZ Security and Privacy Research Group](https://
       Romare, Piero; Karegar, Farzaneh; Fischer-Hübner, Simone.  
       "Towards Usable Privacy Management for IoT TAPs: Deriving Privacy Clusters and Preference Profiles" 
       <em>Under submission. </em>
-      <a href="/assets/pdf/C005.pdf">[preprint]</a>
+      <a href="https://doi.org/10.48550/arXiv.2511.11209">[preprint]</a>
   </li>
   <li style="margin-bottom: 1em;">
     Romare, Piero. "User-Driven Privacy Factors in Trigger-Action Apps: A Comparative Analysis with General IoT." 
