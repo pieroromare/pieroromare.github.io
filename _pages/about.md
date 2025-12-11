@@ -5,33 +5,43 @@ permalink: /
 
 profile:
   align: right
-  image: profile.jpg
+  image: false
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Göteborg, Sweden</p>
+  address: false
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
----
-I'm Piero Romare, PhD Student in Usable Privacy and Security at [Chalmers University of Technology](https://www.chalmers.se), Gothenburg (Sweden), supervised by [prof. Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner), co-supervised by [prof. Morten Fjeld](https://www.chalmers.se/en/persons/fjeld/) and [Dr. Farzaneh Karegar](https://www.kau.se/en/researchers/farzaneh-karegar) in the [WASP Wallenberg AI, Autonomous Systems and Software Program](https://wasp-sweden.org). 
 
-
-I've a bachelor degree in Cognitive Psychology and Psychobiology and a master degree in Data Science from the [University of Padua](https://www.unipd.it/en/) (Italy).  
-I've collaborated with the [SPRITZ Security and Privacy Research Group](https://spritz.math.unipd.it) led by [prof. Mauro Conti](https://www.math.unipd.it/~conti/) and with the [Ubiquitous Interaction Research Group](https://www.helsinki.fi/en/researchgroups/ubiquitous-interaction) at the [University of Helsinki](https://www.helsinki.fi/en) (Finland) led by [prof. Giulio Jacucci](https://researchportal.helsinki.fi/en/persons/giulio-jacucci).
 
 ---
+---
+
+Piero Romare is a PhD Student in Usable Privacy and Security at [Chalmers University of Technology](https://www.chalmers.se), Gothenburg (Sweden), supervised by [prof. Simone Fischer-Hübner](https://www.kau.se/forskare/simone-fischer-hubner), co-supervised by [prof. Morten Fjeld](https://www.chalmers.se/en/persons/fjeld/) and [Dr. Farzaneh Karegar](https://www.kau.se/en/researchers/farzaneh-karegar) funded by [WASP Wallenberg AI, Autonomous Systems and Software Program](https://wasp-sweden.org). 
+
+He obtained a bachelor degree in Cognitive Psychology at the Department of General Psychology and a master degree in Data Science at the Department of Mathematics from the [University of Padua](https://www.unipd.it/en/) (Italy). 
+
+He has collaborated with [SPRITZ Security and Privacy Research Group](https://spritz.math.unipd.it) led by [prof. Mauro Conti](https://www.math.unipd.it/~conti/) and with [Ubiquitous Interaction Research Group](https://www.helsinki.fi/en/researchgroups/ubiquitous-interaction) at the [University of Helsinki](https://www.helsinki.fi/en) (Finland) led by [prof. Giulio Jacucci](https://researchportal.helsinki.fi/en/persons/giulio-jacucci).
+
+---
+<a href="/assets/pdf/CV.pdf" target="_blank" rel="noopener noreferrer" class="float-right" style="margin-right: 20px;"><i class="fas fa-file-pdf"></i> Download CV</a>
+
 <h4>Research Interests</h4>
 - *Usable Privacy in IoT Automated Applications on IFTTT tool*
 - *IoT Human-Centric Authentication on Earphones and Smart Glasses*
 - *Tangible Privacy on Smartphone and Smart Home*
 
 ---
-<a href="/assets/pdf/CV.pdf" target="_blank" rel="noopener noreferrer" class="float-right" style="margin-right: 20px;"><i class="fas fa-file-pdf"></i> Download CV</a>
 
 <h4>Publications</h4>
 <ul style="list-style-type: none; padding-left: 0;">
+  <li style="margin-bottom: 1em;">
+    Andreas Tjeldflaat, Piero Romare, Yuki Onishi, Morten Fjeld, and Bjørn Sætrevik.
+    "A Two-Week In-the-Wild Study of Screen Filters and Camera Sliders for Smartphone Privacy in Public Spaces" 
+    <em>In Twentieth International Conference on Tangible, Embedded, and Embodied Interaction (TEI ’26)</em>, ACM, March 08–11, 2026, Chicago, IL, USA
+    <a href="https://doi.org/10.1145/3731459.3773309">[paper]</a><a href="">[video]</a>
+  </li>
   <li style="margin-bottom: 1em;">
     Romare, Piero. 
     "A User-Centric Approach to Usable Privacy for IoT Trigger-Action Platforms." 
@@ -61,11 +71,19 @@ I've collaborated with the [SPRITZ Security and Privacy Research Group](https://
     <em>2020 IEEE Conference on Communications and Network Security (CNS)</em>, IEEE, Avignon, France, June 2020, pp. 1–9. 
     <a href="https://doi.org/10.1109/CNS48642.2020.9162343">[paper]</a>
   </li>
+</ul>
+
+---
+<h4>Patents</h4>  
+<ul style="list-style-type: none; padding-left: 0;">  
   <li style="margin-bottom: 1em;">
     Conti, Mauro; Cecconello, Stefano; Romare, Piero; Carlucci, Mattia. 
     "Method of Authenticating a User Through Analysis of Changes in the External Ear Canal." 
     <em>WIPO PCT/IB2021/050369</em>, January 2021. 
-    <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021148932">[patent] </a><a href="https://pieroromare.github.io/extra">[video]</a>
+    <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021148932">[patent] </a>
+
+    {% include video.html path="https://pieroromare.github.io/assets/video/eathenication_ai_voice.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+    (Video translated in English using AI automatic voice translator.)
   </li>
 </ul>
 
@@ -88,7 +106,7 @@ Meiji University (Oct 2024) - Tokyo, Japan <br>
 CISPA Helmholtz Center (Jul 2024) - Saarbrücken, Germany<br>
 Lund University (May 2024) - Lund, Sweden<br>
 ETH Zürich (May 2024) - Zürich, Switzerland<br>
-WASP Winter Conference (Jan 2024) - Norrköping, Sweden<br>
+WASP Winter Conference (Jan 2024) - Norrköping, Sweden<a href="https://internal.wasp-sweden.org/winterconf2024/posters/piero_romare.pdf"> [poster]</a><br>
 Chalmers University of Technology (Oct 2023) - Göteborg, Sweden<br>
 Massachusetts Institute of Technology (Sept 2023) - Boston, USA<br>
 University of Pittsburgh (Sept 2023), Pittsburgh, USA<br>
@@ -98,3 +116,5 @@ Oslo University (Aug 2023) - Oslo, Norway<br>
 Uppsala University (May 2023) - Uppsala, Sweden<br>
 University of Padua (May 2023) - Padua, Italy<br>
 Karlstad University (Nov 2022) - Karlstad, Sweden
+
+---
