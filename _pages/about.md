@@ -103,7 +103,7 @@ He has collaborated with [SPRITZ Security and Privacy Research Group](https://sp
       Romare, Piero. 
       "Dynamic Privacy and the Contextual Calibration of Control for Smartphones in Public Spaces" 
       <em>Moving Beyond Clicks: Rethinking Consent and User Control in the Age of AI (Workshop at CHI ’26)</em>, ACM, 2026.
-      <a href="https://pieroromare.github.io/assets/pdf/C009.pdf">[paper]</a>
+      <a href="">[paper]</a>
     </div>
     <div class="pub-abstract-preview">
       <a href="assets/img/positional_paper.png" target="_blank" class="abstract-link">
