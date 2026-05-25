@@ -29,8 +29,8 @@ He has collaborated with [SPRITZ Security and Privacy Research Group](https://sp
 
 <h4>Research Interests</h4>
 - *Usable Privacy in IoT Automated Applications on IFTTT tool*
-- *IoT Human-Centric Authentication on Earphones and Smart Glasses*
-- *Tangible Privacy on Smartphone and Smart Home*
+- *IoT Human-Centric Authentication on Earphones*
+- *Tangible and Embodied Privacy on Smartphone*
 
 ---
 <style>
@@ -102,8 +102,8 @@ He has collaborated with [SPRITZ Security and Privacy Research Group](https://sp
     <div class="pub-info">
       Romare, Piero. 
       "Dynamic Privacy and the Contextual Calibration of Control for Smartphones in Public Spaces" 
-      <em>Moving Beyond Clicks: Rethinking Consent and User Control in the Age of AI (Workshop at CHI ’26)</em>, ACM, 2026.
-      <a href="">[paper]</a>
+      <em>Moving Beyond Clicks: Rethinking Consent and User Control in the Age of AI (Workshop at CHI ’26)</em>, 2026.
+      <a href="https://chi26clicks.wseymour.co.uk/papers/12.pdf">[paper]</a>
     </div>
     <div class="pub-abstract-preview">
       <a href="assets/img/positional_paper.png" target="_blank" class="abstract-link">
@@ -117,7 +117,7 @@ He has collaborated with [SPRITZ Security and Privacy Research Group](https://sp
       Tjeldflaat, Andreas; Romare, Piero; Onishi, Yuki; Fjeld, Morten;  Sætrevik, Bjørn.
       "A Two-Week In-the-Wild Study of Screen Filters and Camera Sliders for Smartphone Privacy in Public Spaces" 
       <em>In Twentieth International Conference on Tangible, Embedded, and Embodied Interaction (TEI ’26)</em>, ACM, 2026.
-      <a href="https://doi.org/10.1145/3731459.3773309">[paper]</a> <a href="https://doi.org/10.48550/arXiv.2602.08465">[preprint]</a> <a href="">[video]</a>
+      <a href="https://doi.org/10.1145/3731459.3773309">[paper]</a> <a href="https://doi.org/10.48550/arXiv.2602.08465">[preprint]</a> <a href="https://dl.acm.org/doi/suppl/10.1145/3731459.3773309/suppl_file/A%20Two-Week%20In-the-Wild%20Study%20of%20Screen%20Filters%20and%20Camera%20Sliders%20for%20Smartphone%20Privacy%20in%20Public%20Spaces.mp4">[video]</a>
     </div>
     <div class="pub-abstract-preview">
       <a href="assets/img/tangible_privacy.png" target="_blank" class="abstract-link">
@@ -144,7 +144,7 @@ He has collaborated with [SPRITZ Security and Privacy Research Group](https://sp
     <div class="pub-info">
       Romare, Piero; Karegar, Farzaneh; Fischer-Hübner, Simone. 
       "Towards Usable Privacy Management for IoT TAPs: Deriving Privacy Clusters and Preference Profiles" 
-      <em>Under submission.</em> 
+      <em></em> 
       <a href="https://doi.org/10.48550/arXiv.2511.11209">[preprint]</a>
     </div>
     <div class="pub-abstract-preview">
@@ -201,7 +201,7 @@ He has collaborated with [SPRITZ Security and Privacy Research Group](https://sp
 
 <h4>Teaching</h4>
 - *Object Oriented Programming* (Chalmers University of Technology, 2024-current)
-- *Advanced Programming in Python* (Chalmers University of Technology, 2022-current)
+- *Advanced Programming in Python* (Chalmers University of Technology, 2022-2025)
 - *Tangible Interaction* (Chalmers University of Technology, 2022-current)
 - *Introduction to Programming in Python* (Chalmers University of Technology, 2022-2023)
 - *Cognitive, Behaviour and Social Data* (University of Padua, 2021-2022)
