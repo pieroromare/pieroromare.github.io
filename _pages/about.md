@@ -103,6 +103,21 @@ He has collaborated with [SPRITZ Security and Privacy Research Group](https://sp
       Romare, Piero. 
       "Dynamic Privacy and the Contextual Calibration of Control for Smartphones in Public Spaces" 
       <em>Moving Beyond Clicks: Rethinking Consent and User Control in the Age of AI (Workshop at CHI ’26)</em>, 2026.
+      <a href="https://chi26clicks.wseymour.co.uk/papers/12.pdf", rel="nofollow">[paper]</a>
+    </div>
+    <div class="pub-abstract-preview">
+      <a href="assets/img/positional_paper.png" target="_blank" class="abstract-link">
+        <img src="assets/img/positional_paper.png" alt="Graphical Abstract">
+      </a>
+    </div>
+  </li>
+
+
+  <li class="pub-item">
+    <div class="pub-info">
+      Romare, Piero. 
+      "Dynamic Privacy and the Contextual Calibration of Control for Smartphones in Public Spaces" 
+      <em>Moving Beyond Clicks: Rethinking Consent and User Control in the Age of AI (Workshop at CHI ’26)</em>, 2026.
       <a href="https://chi26clicks.wseymour.co.uk/papers/12.pdf">[paper]</a>
     </div>
     <div class="pub-abstract-preview">
@@ -140,19 +155,6 @@ He has collaborated with [SPRITZ Security and Privacy Research Group](https://sp
     </div>
   </li>
 
-  <li class="pub-item">
-    <div class="pub-info">
-      Romare, Piero; Karegar, Farzaneh; Fischer-Hübner, Simone. 
-      "Towards Usable Privacy Management for IoT TAPs: Deriving Privacy Clusters and Preference Profiles" 
-      <em></em> 
-      <a href="https://doi.org/10.48550/arXiv.2511.11209">[preprint]</a>
-    </div>
-    <div class="pub-abstract-preview">
-      <a href="assets/img/privacy_profile.png" target="_blank" class="abstract-link">
-        <img src="assets/img/privacy_profile.png" alt="Graphical Abstract">
-      </a>
-    </div>
-  </li>
 
   <li class="pub-item">
     <div class="pub-info">
