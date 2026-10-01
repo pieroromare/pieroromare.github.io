@@ -1,4 +1,7 @@
 User-agent: *
-Disallow:
+Disallow: /assets/pdf/
+Disallow: /*.pdf$
+Disallow: /*.png$
+Disallow: /*.jpg$
 
 Sitemap: https://pieroromare.github.io/sitemap.xml
